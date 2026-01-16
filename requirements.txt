@@ -1,0 +1,6 @@
+pillow
+pillow-heif
+geopy
+hachoir
+streamlit
+watchdog

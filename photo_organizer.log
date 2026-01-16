@@ -1,0 +1,1214 @@
+2026-01-17 00:11:47,856 - INFO - Processed: IMG_2818.JPG
+2026-01-17 00:11:47,858 - INFO - Using file timestamp for IMG_2094.DNG
+2026-01-17 00:11:47,860 - INFO - Processed: IMG_2094.DNG
+2026-01-17 00:11:47,860 - INFO - Using file timestamp for IMG_O4175.AAE
+2026-01-17 00:11:47,862 - INFO - Processed: IMG_O4175.AAE
+2026-01-17 00:11:49,319 - INFO - Processed: IMG_E3569.JPG
+2026-01-17 00:11:49,320 - INFO - Using file timestamp for IMG_2080.DNG
+2026-01-17 00:11:49,320 - INFO - Processed: IMG_2080.DNG
+2026-01-17 00:11:49,320 - INFO - Using file timestamp for IMG_3341.AAE
+2026-01-17 00:11:49,321 - INFO - Processed: IMG_3341.AAE
+2026-01-17 00:11:49,321 - INFO - Using file timestamp for QXHUE5667.JPG
+2026-01-17 00:11:49,322 - INFO - Processed: QXHUE5667.JPG
+2026-01-17 00:11:49,322 - INFO - Using file timestamp for IMG_O3632.AAE
+2026-01-17 00:11:49,323 - INFO - Processed: IMG_O3632.AAE
+2026-01-17 00:11:49,323 - INFO - Using file timestamp for IMG_4299.JPG
+2026-01-17 00:11:49,324 - INFO - Processed: IMG_4299.JPG
+2026-01-17 00:11:49,324 - INFO - Using file timestamp for IMG_O3140.AAE
+2026-01-17 00:11:49,325 - INFO - Processed: IMG_O3140.AAE
+2026-01-17 00:11:49,325 - INFO - Using file timestamp for IMG_2902.DNG
+2026-01-17 00:11:49,326 - INFO - Processed: IMG_2902.DNG
+2026-01-17 00:11:51,331 - INFO - Processed Live Photo pair: IMG_2603.JPG + IMG_2603.MOV
+2026-01-17 00:11:51,331 - INFO - Using file timestamp for IMG_3349.DNG
+2026-01-17 00:11:51,334 - INFO - Processed: IMG_3349.DNG
+2026-01-17 00:11:53,425 - INFO - Processed: IMG_4272.JPG
+2026-01-17 00:11:55,537 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.371880555555556&lon=121.79310555555556&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:11:56,543 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.371880555555556&lon=121.79310555555556&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:11:57,489 - INFO - Processed Live Photo pair: IMG_2617.JPG + IMG_2617.MOV
+2026-01-17 00:11:57,493 - INFO - Processed: PYDU7434.JPG
+2026-01-17 00:11:58,931 - INFO - Processed Live Photo pair: IMG_2171.JPG + IMG_2171.MOV
+2026-01-17 00:12:01,026 - INFO - Processed Live Photo pair: IMG_2159.JPG + IMG_2159.MOV
+2026-01-17 00:12:01,026 - INFO - Using file timestamp for IMG_2922.AAE
+2026-01-17 00:12:01,029 - INFO - Processed: IMG_2922.AAE
+2026-01-17 00:12:01,029 - INFO - Using file timestamp for IMG_3361.DNG
+2026-01-17 00:12:01,031 - INFO - Processed: IMG_3361.DNG
+2026-01-17 00:12:02,502 - INFO - Processed: IMG_E2850.JPG
+2026-01-17 00:12:04,547 - INFO - Processed: IMG_E4010.JPG
+2026-01-17 00:12:04,548 - INFO - Processed: ISSO7157.JPG
+2026-01-17 00:12:04,548 - INFO - Using file timestamp for IMG_4195.DNG
+2026-01-17 00:12:04,548 - INFO - Processed: IMG_4195.DNG
+2026-01-17 00:12:05,977 - INFO - Processed Live Photo pair: IMG_3938.JPG + IMG_3938.MOV
+2026-01-17 00:12:05,978 - INFO - Using file timestamp for IMG_O3430.AAE
+2026-01-17 00:12:05,979 - INFO - Processed: IMG_O3430.AAE
+2026-01-17 00:12:08,086 - INFO - Processed: IMG_3086.JPG
+2026-01-17 00:12:08,087 - INFO - Using file timestamp for IMG_O3342.AAE
+2026-01-17 00:12:08,088 - INFO - Processed: IMG_O3342.AAE
+2026-01-17 00:12:08,088 - INFO - Using file timestamp for IMG_3631.AAE
+2026-01-17 00:12:08,089 - INFO - Processed: IMG_3631.AAE
+2026-01-17 00:12:08,090 - INFO - Using file timestamp for IMG_3802.AAE
+2026-01-17 00:12:08,092 - INFO - Processed: IMG_3802.AAE
+2026-01-17 00:12:09,539 - INFO - Processed Live Photo pair: IMG_2367.JPG + IMG_2367.MOV
+2026-01-17 00:12:11,711 - INFO - Processed Live Photo pair: IMG_3079.JPG + IMG_3079.MOV
+2026-01-17 00:12:11,711 - INFO - Using file timestamp for IMG_4142.DNG
+2026-01-17 00:12:11,714 - INFO - Processed: IMG_4142.DNG
+2026-01-17 00:12:13,728 - INFO - Processed Live Photo pair: IMG_2373.JPG + IMG_2373.MOV
+2026-01-17 00:12:13,729 - INFO - Using file timestamp for IMG_4156.DNG
+2026-01-17 00:12:13,730 - INFO - Processed: IMG_4156.DNG
+2026-01-17 00:12:13,730 - INFO - Using file timestamp for IMG_3816.AAE
+2026-01-17 00:12:13,732 - INFO - Processed: IMG_3816.AAE
+2026-01-17 00:12:13,732 - INFO - Using file timestamp for IMG_3611.DNG
+2026-01-17 00:12:13,733 - INFO - Processed: IMG_3611.DNG
+2026-01-17 00:12:13,734 - INFO - Using file timestamp for IMG_O2921.AAE
+2026-01-17 00:12:13,735 - INFO - Processed: IMG_O2921.AAE
+2026-01-17 00:12:16,064 - INFO - Processed Live Photo pair: IMG_3870.JPG + IMG_3870.MOV
+2026-01-17 00:12:16,065 - INFO - Using file timestamp for IMG_2484.DNG
+2026-01-17 00:12:16,068 - INFO - Processed: IMG_2484.DNG
+2026-01-17 00:12:16,068 - INFO - Using file timestamp for IMG_3751.AAE
+2026-01-17 00:12:16,070 - INFO - Processed: IMG_3751.AAE
+2026-01-17 00:12:17,562 - INFO - Processed Live Photo pair: IMG_E4158.JPG + IMG_E4158.MOV
+2026-01-17 00:12:17,562 - INFO - Using file timestamp for IMG_O3544.AAE
+2026-01-17 00:12:17,565 - INFO - Processed: IMG_O3544.AAE
+2026-01-17 00:12:17,565 - INFO - Using file timestamp for IMG_O2128.AAE
+2026-01-17 00:12:17,567 - INFO - Processed: IMG_O2128.AAE
+2026-01-17 00:12:17,567 - INFO - Using file timestamp for IMG_O3550.AAE
+2026-01-17 00:12:17,568 - INFO - Processed: IMG_O3550.AAE
+2026-01-17 00:12:20,153 - INFO - Processed Live Photo pair: IMG_3680.JPG + IMG_3680.MOV
+2026-01-17 00:12:20,156 - INFO - Processed: IMG_3858.JPG
+2026-01-17 00:12:21,581 - INFO - Processed Live Photo pair: IMG_2575.JPG + IMG_2575.MOV
+2026-01-17 00:12:21,582 - INFO - Using file timestamp for IMG_4036.DNG
+2026-01-17 00:12:21,583 - INFO - Processed: IMG_4036.DNG
+2026-01-17 00:12:23,584 - INFO - Processed: IMG_2213.JPG
+2026-01-17 00:12:23,587 - INFO - Processed: IMG_2207.JPG
+2026-01-17 00:12:23,587 - INFO - Using file timestamp for IMG_3995.DNG
+2026-01-17 00:12:23,588 - INFO - Processed: IMG_3995.DNG
+2026-01-17 00:12:23,591 - INFO - Processed: IMG_3657.JPG
+2026-01-17 00:12:24,993 - INFO - Processed: IMG_E3838.JPG
+2026-01-17 00:12:24,993 - INFO - Using file timestamp for IMG_2498.AAE
+2026-01-17 00:12:24,995 - INFO - Processed: IMG_2498.AAE
+2026-01-17 00:12:27,002 - INFO - Processed Live Photo pair: IMG_3643.JPG + IMG_3643.MOV
+2026-01-17 00:12:27,003 - INFO - Using file timestamp for IMG_4200.AAE
+2026-01-17 00:12:27,004 - INFO - Processed: IMG_4200.AAE
+2026-01-17 00:12:28,728 - INFO - Processed Live Photo pair: IMG_2950.JPG + IMG_2950.MOV
+2026-01-17 00:12:28,728 - INFO - Using file timestamp for IMG_3547.AAE
+2026-01-17 00:12:28,729 - INFO - Processed: IMG_3547.AAE
+2026-01-17 00:12:30,888 - INFO - Processed: IMG_2777.JPG
+2026-01-17 00:12:32,304 - INFO - Processed Live Photo pair: IMG_3333.JPG + IMG_3333.MOV
+2026-01-17 00:12:34,343 - INFO - Processed Live Photo pair: IMG_3441.JPG + IMG_3441.MOV
+2026-01-17 00:12:34,344 - INFO - Using file timestamp for IMG_3584.AAE
+2026-01-17 00:12:34,345 - INFO - Processed: IMG_3584.AAE
+2026-01-17 00:12:35,819 - INFO - Processed: IMG_3327.JPG
+2026-01-17 00:12:35,819 - INFO - Using file timestamp for IMG_3573.DNG
+2026-01-17 00:12:35,821 - INFO - Processed: IMG_3573.DNG
+2026-01-17 00:12:35,825 - INFO - Processed Live Photo pair: IMG_3440.JPG + IMG_3440.MOV
+2026-01-17 00:12:37,934 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.37613888888889&lon=121.48498611111111&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:12:38,911 - INFO - Processed Live Photo pair: IMG_2986.JPG + IMG_2986.MOV
+2026-01-17 00:12:38,911 - INFO - Using file timestamp for IMG_3572.DNG
+2026-01-17 00:12:38,911 - INFO - Processed: IMG_3572.DNG
+2026-01-17 00:12:38,912 - INFO - Using file timestamp for IMG_4235.DNG
+2026-01-17 00:12:38,913 - INFO - Processed: IMG_4235.DNG
+2026-01-17 00:12:38,914 - INFO - Processed: IMG_2776.JPG
+2026-01-17 00:12:38,914 - INFO - Using file timestamp for IMG_2122.DNG
+2026-01-17 00:12:38,915 - INFO - Processed: IMG_2122.DNG
+2026-01-17 00:12:38,915 - INFO - Using file timestamp for IMG_3546.AAE
+2026-01-17 00:12:38,915 - INFO - Processed: IMG_3546.AAE
+2026-01-17 00:12:40,429 - INFO - Processed: IMG_2945.JPG
+2026-01-17 00:12:40,433 - INFO - Processed: HKLX6079.JPG
+2026-01-17 00:12:40,433 - INFO - Using file timestamp for IMG_4201.AAE
+2026-01-17 00:12:40,435 - INFO - Processed: IMG_4201.AAE
+2026-01-17 00:12:40,438 - INFO - Processed Live Photo pair: IMG_3642.JPG + IMG_3642.MOV
+2026-01-17 00:12:40,439 - INFO - Using file timestamp for IMG_2499.AAE
+2026-01-17 00:12:40,440 - INFO - Processed: IMG_2499.AAE
+2026-01-17 00:12:42,492 - INFO - Processed: IMG_E3839.JPG
+2026-01-17 00:12:42,494 - INFO - Using file timestamp for IMG_3656.JPG
+2026-01-17 00:12:42,496 - INFO - Processed: IMG_3656.JPG
+2026-01-17 00:12:42,496 - INFO - Using file timestamp for IMG_3994.DNG
+2026-01-17 00:12:42,498 - INFO - Processed: IMG_3994.DNG
+2026-01-17 00:12:42,498 - INFO - Using file timestamp for IMG_2452.DNG
+2026-01-17 00:12:42,500 - INFO - Processed: IMG_2452.DNG
+2026-01-17 00:12:42,502 - INFO - Processed: IMG_2206.JPG
+2026-01-17 00:12:44,012 - INFO - Processed: IMG_4111.JPG
+2026-01-17 00:12:44,018 - INFO - Processed: IMG_4105.JPG
+2026-01-17 00:12:46,400 - INFO - Processed Live Photo pair: IMG_2574.JPG + IMG_2574.MOV
+2026-01-17 00:12:46,400 - INFO - Using file timestamp for IMG_3980.DNG
+2026-01-17 00:12:46,401 - INFO - Processed: IMG_3980.DNG
+2026-01-17 00:12:46,403 - INFO - Processed: IMG_2212.JPG
+2026-01-17 00:12:46,403 - INFO - Using file timestamp for IMG_4037.DNG
+2026-01-17 00:12:46,403 - INFO - Processed: IMG_4037.DNG
+2026-01-17 00:12:46,404 - INFO - Processed: IMG_3859.JPG
+2026-01-17 00:12:46,405 - INFO - Processed Live Photo pair: IMG_3681.JPG + IMG_3681.MOV
+2026-01-17 00:12:47,837 - INFO - Processed: IMG_E3622.JPG
+2026-01-17 00:12:47,837 - INFO - Using file timestamp for IMG_O3551.AAE
+2026-01-17 00:12:47,839 - INFO - Processed: IMG_O3551.AAE
+2026-01-17 00:12:47,839 - INFO - Using file timestamp for IMG_O3545.AAE
+2026-01-17 00:12:47,840 - INFO - Processed: IMG_O3545.AAE
+2026-01-17 00:12:49,948 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.34681388888889&lon=121.87027777777777&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:12:51,277 - INFO - Processed: IMG_E2528.JPG
+2026-01-17 00:12:51,278 - INFO - Using file timestamp for IMG_3750.AAE
+2026-01-17 00:12:51,279 - INFO - Processed: IMG_3750.AAE
+2026-01-17 00:12:51,279 - INFO - Using file timestamp for IMG_O4202.AAE
+2026-01-17 00:12:51,280 - INFO - Processed: IMG_O4202.AAE
+2026-01-17 00:12:51,284 - INFO - Processed Live Photo pair: IMG_3871.JPG + IMG_3871.MOV
+2026-01-17 00:12:51,284 - INFO - Using file timestamp for IMG_3604.DNG
+2026-01-17 00:12:51,286 - INFO - Processed: IMG_3604.DNG
+2026-01-17 00:12:51,287 - INFO - Using file timestamp for IMG_O2920.AAE
+2026-01-17 00:12:51,288 - INFO - Processed: IMG_O2920.AAE
+2026-01-17 00:12:52,742 - INFO - Processed: IMG_2372.JPG
+2026-01-17 00:12:52,743 - INFO - Using file timestamp for IMG_4143.DNG
+2026-01-17 00:12:52,744 - INFO - Processed: IMG_4143.DNG
+2026-01-17 00:12:52,748 - INFO - Processed Live Photo pair: IMG_3078.JPG + IMG_3078.MOV
+2026-01-17 00:12:55,025 - INFO - Processed Live Photo pair: IMG_2366.JPG + IMG_2366.MOV
+2026-01-17 00:12:55,025 - INFO - Using file timestamp for IMG_O3343.AAE
+2026-01-17 00:12:55,025 - INFO - Processed: IMG_O3343.AAE
+2026-01-17 00:12:55,025 - INFO - Using file timestamp for IMG_3624.AAE
+2026-01-17 00:12:55,026 - INFO - Processed: IMG_3624.AAE
+2026-01-17 00:12:56,507 - INFO - Processed Live Photo pair: IMG_3939.JPG + IMG_3939.MOV
+2026-01-17 00:12:56,508 - INFO - Using file timestamp for IMG_3087.JPG
+2026-01-17 00:12:56,510 - INFO - Processed: IMG_3087.JPG
+2026-01-17 00:12:56,510 - INFO - Using file timestamp for IMG_4194.DNG
+2026-01-17 00:12:56,511 - INFO - Processed: IMG_4194.DNG
+2026-01-17 00:12:56,511 - INFO - Using file timestamp for IMG_3618.AAE
+2026-01-17 00:12:56,512 - INFO - Processed: IMG_3618.AAE
+2026-01-17 00:12:56,512 - INFO - Using file timestamp for IMG_3360.DNG
+2026-01-17 00:12:56,513 - INFO - Processed: IMG_3360.DNG
+2026-01-17 00:12:56,583 - INFO - Using file timestamp for IMG_2399.PNG
+2026-01-17 00:12:56,584 - INFO - Processed: IMG_2399.PNG
+2026-01-17 00:12:56,585 - INFO - Processed Live Photo pair: IMG_2158.JPG + IMG_2158.MOV
+2026-01-17 00:12:58,683 - INFO - Processed Live Photo pair: IMG_3246.JPG + IMG_3246.MOV
+2026-01-17 00:13:00,112 - INFO - Processed Live Photo pair: IMG_3520.JPG + IMG_3520.MOV
+2026-01-17 00:13:02,144 - INFO - Processed Live Photo pair: IMG_2170.JPG + IMG_2170.MOV
+2026-01-17 00:13:03,805 - INFO - Processed: IMG_4273.JPG
+2026-01-17 00:13:03,806 - INFO - Using file timestamp for IMG_3348.DNG
+2026-01-17 00:13:03,809 - INFO - Processed: IMG_3348.DNG
+2026-01-17 00:13:03,813 - INFO - Processed Live Photo pair: IMG_2602.JPG + IMG_2602.MOV
+2026-01-17 00:13:03,813 - INFO - Using file timestamp for IMG_O3627.AAE
+2026-01-17 00:13:03,814 - INFO - Processed: IMG_O3627.AAE
+2026-01-17 00:13:03,816 - INFO - Processed: IMG_2831.JPG
+2026-01-17 00:13:03,817 - INFO - Using file timestamp for IMG_O3141.AAE
+2026-01-17 00:13:03,818 - INFO - Processed: IMG_O3141.AAE
+2026-01-17 00:13:03,818 - INFO - Using file timestamp for IMG_3340.AAE
+2026-01-17 00:13:03,820 - INFO - Processed: IMG_3340.AAE
+2026-01-17 00:13:05,819 - INFO - Processed: IMG_E2138.JPG
+2026-01-17 00:13:05,820 - INFO - Using file timestamp for IMG_O3633.AAE
+2026-01-17 00:13:05,820 - INFO - Processed: IMG_O3633.AAE
+2026-01-17 00:13:05,820 - INFO - Using file timestamp for IMG_2081.DNG
+2026-01-17 00:13:05,821 - INFO - Processed: IMG_2081.DNG
+2026-01-17 00:13:05,822 - INFO - Processed: IMG_E3568.JPG
+2026-01-17 00:13:05,822 - INFO - Using file timestamp for IMG_O4174.AAE
+2026-01-17 00:13:05,823 - INFO - Processed: IMG_O4174.AAE
+2026-01-17 00:13:05,824 - INFO - Processed: NUVO1439.JPG
+2026-01-17 00:13:07,362 - INFO - Processed Live Photo pair: IMG_E4205.JPG + IMG_E4205.MOV
+2026-01-17 00:13:07,362 - INFO - Using file timestamp for IMG_2083.DNG
+2026-01-17 00:13:07,364 - INFO - Processed: IMG_2083.DNG
+2026-01-17 00:13:07,364 - INFO - Using file timestamp for IMG_4377.AAE
+2026-01-17 00:13:07,366 - INFO - Processed: IMG_4377.AAE
+2026-01-17 00:13:07,366 - INFO - Using file timestamp for IMG_2097.DNG
+2026-01-17 00:13:07,368 - INFO - Processed: IMG_2097.DNG
+2026-01-17 00:13:09,481 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.321669444444446&lon=121.48034722222222&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:13:10,486 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.321669444444446&lon=121.48034722222222&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:13:11,490 - WARNING - Geocoding error: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /reverse?lat=31.321669444444446&lon=121.48034722222222&format=json&accept-language=zh-cn&addressdetails=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)"))
+2026-01-17 00:13:11,493 - INFO - Processed Live Photo pair: IMG_3293.JPG + IMG_3293.MOV
+2026-01-17 00:13:11,493 - INFO - Using file timestamp for IMG_3430.AAE
+2026-01-17 00:13:11,496 - INFO - Processed: IMG_3430.AAE
+2026-01-17 00:13:11,496 - INFO - Using file timestamp for IMG_O3631.AAE
+2026-01-17 00:13:11,498 - INFO - Processed: IMG_O3631.AAE
+2026-01-17 00:13:11,500 - INFO - Processed: IMG_2199.JPG
+2026-01-17 00:13:11,501 - INFO - Using file timestamp for IMG_3342.AAE
+2026-01-17 00:13:11,502 - INFO - Processed: IMG_3342.AAE
+2026-01-17 00:13:13,906 - INFO - Processed Live Photo pair: IMG_2172.JPG + IMG_2172.MOV
+2026-01-17 00:13:15,312 - INFO - Processed: IMG_4265.JPG
+2026-01-17 00:13:15,312 - INFO - Using file timestamp for IMG_O3816.AAE
+2026-01-17 00:13:15,313 - INFO - Processed: IMG_O3816.AAE
+2026-01-17 00:13:18,027 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.37580277777778&lon=121.83973055555555&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:13:19,102 - INFO - Processed: IMG_2600.JPG
+2026-01-17 00:13:19,104 - INFO - Processed: IMG_4271.JPG
+2026-01-17 00:13:20,529 - INFO - Processed Live Photo pair: IMG_2166.JPG + IMG_2166.MOV
+2026-01-17 00:13:22,884 - INFO - Processed Live Photo pair: IMG_3250.JPG + IMG_3250.MOV
+2026-01-17 00:13:22,884 - INFO - Using file timestamp for IMG_3362.DNG
+2026-01-17 00:13:22,886 - INFO - Processed: IMG_3362.DNG
+2026-01-17 00:13:24,554 - INFO - Processed: IMG_3536.JPG
+2026-01-17 00:13:24,556 - INFO - Processed: IMG_4259.JPG
+2026-01-17 00:13:26,739 - INFO - Processed Live Photo pair: IMG_3522.JPG + IMG_3522.MOV
+2026-01-17 00:13:26,739 - INFO - Using file timestamp for IMG_2921.AAE
+2026-01-17 00:13:26,740 - INFO - Processed: IMG_2921.AAE
+2026-01-17 00:13:28,249 - INFO - Processed: IMG_3244.JPG
+2026-01-17 00:13:28,249 - INFO - Using file timestamp for IMG_4196.DNG
+2026-01-17 00:13:28,250 - INFO - Processed: IMG_4196.DNG
+2026-01-17 00:13:28,250 - INFO - Using file timestamp for IMG_4175.AAE
+2026-01-17 00:13:28,252 - INFO - Processed: IMG_4175.AAE
+2026-01-17 00:13:28,252 - INFO - Using file timestamp for IMG_3632.AAE
+2026-01-17 00:13:28,253 - INFO - Processed: IMG_3632.AAE
+2026-01-17 00:13:28,253 - INFO - Using file timestamp for IMG_O3341.AAE
+2026-01-17 00:13:28,254 - INFO - Processed: IMG_O3341.AAE
+2026-01-17 00:13:28,254 - INFO - Using file timestamp for IMG_3140.AAE
+2026-01-17 00:13:28,255 - INFO - Processed: IMG_3140.AAE
+2026-01-17 00:13:30,354 - INFO - Processed Live Photo pair: IMG_2370.JPG + IMG_2370.MOV
+2026-01-17 00:13:30,355 - INFO - Using file timestamp for IMG_4155.DNG
+2026-01-17 00:13:30,357 - INFO - Processed: IMG_4155.DNG
+2026-01-17 00:13:30,358 - INFO - Using file timestamp for IMG_2530.DNG
+2026-01-17 00:13:30,359 - INFO - Processed: IMG_2530.DNG
+2026-01-17 00:13:30,362 - INFO - Processed Live Photo pair: IMG_2364.JPG + IMG_2364.MOV
+2026-01-17 00:13:30,362 - INFO - Using file timestamp for IMG_4141.DNG
+2026-01-17 00:13:30,363 - INFO - Processed: IMG_4141.DNG
+2026-01-17 00:13:30,363 - INFO - Using file timestamp for IMG_O2922.AAE
+2026-01-17 00:13:30,365 - INFO - Processed: IMG_O2922.AAE
+2026-01-17 00:13:31,793 - INFO - Processed Live Photo pair: IMG_3052.JPG + IMG_3052.MOV
+2026-01-17 00:13:31,793 - INFO - Using file timestamp for IMG_3606.DNG
+2026-01-17 00:13:31,794 - INFO - Processed: IMG_3606.DNG
+2026-01-17 00:13:31,799 - INFO - Processed Live Photo pair: IMG_3867.JPG + IMG_3867.MOV
+2026-01-17 00:13:31,800 - INFO - Using file timestamp for IMG_O4200.AAE
+2026-01-17 00:13:31,801 - INFO - Processed: IMG_O4200.AAE
+2026-01-17 00:13:31,803 - INFO - Processed: EQSG4729.JPG
+2026-01-17 00:13:31,803 - INFO - Using file timestamp for IMG_2493.DNG
+2026-01-17 00:13:31,804 - INFO - Processed: IMG_2493.DNG
+2026-01-17 00:13:31,807 - INFO - Processed Live Photo pair: IMG_3873.JPG + IMG_3873.MOV
+2026-01-17 00:13:31,809 - INFO - Processed: IMG_E3620.JPG
+2026-01-17 00:13:33,923 - INFO - Processed: IMG_E3634.JPG
+2026-01-17 00:13:35,341 - INFO - Processed Live Photo pair: IMG_2589.JPG + IMG_2589.MOV
+2026-01-17 00:13:35,341 - INFO - Using file timestamp for IMG_O3547.AAE
+2026-01-17 00:13:35,342 - INFO - Processed: IMG_O3547.AAE
+2026-01-17 00:13:35,346 - INFO - Processed: IMG_4113.JPG
+2026-01-17 00:13:35,347 - INFO - Using file timestamp for IMG_2450.DNG
+2026-01-17 00:13:35,348 - INFO - Processed: IMG_2450.DNG
+2026-01-17 00:13:35,351 - INFO - Processed: IMG_2204.JPG
+2026-01-17 00:13:35,352 - INFO - Using file timestamp for IMG_3996.DNG
+2026-01-17 00:13:35,354 - INFO - Processed: IMG_3996.DNG
+2026-01-17 00:13:35,354 - INFO - Using file timestamp for IMG_4035.DNG
+2026-01-17 00:13:35,355 - INFO - Processed: IMG_4035.DNG
+2026-01-17 00:13:35,357 - INFO - Processed: IMG_2210.JPG
+2026-01-17 00:13:35,359 - INFO - Processed Live Photo pair: IMG_2576.JPG + IMG_2576.MOV
+2026-01-17 00:13:37,777 - INFO - Processed: IMG_3668.JPG
+2026-01-17 00:13:37,781 - INFO - Processed Live Photo pair: IMG_3640.JPG + IMG_3640.MOV
+2026-01-17 00:13:39,213 - INFO - Processed Live Photo pair: IMG_2238.JPG + IMG_2238.MOV
+2026-01-17 00:13:39,214 - INFO - Using file timestamp for IMG_2478.DNG
+2026-01-17 00:13:39,214 - INFO - Processed: IMG_2478.DNG
+2026-01-17 00:13:39,214 - INFO - Using file timestamp for IMG_O3584.AAE
+2026-01-17 00:13:39,215 - INFO - Processed: IMG_O3584.AAE
+2026-01-17 00:13:41,610 - INFO - Processed: IMG_E4198.JPG
+2026-01-17 00:13:43,097 - INFO - Processed: IMG_E3344.JPG
+2026-01-17 00:13:43,098 - INFO - Using file timestamp for IMG_3544.AAE
+2026-01-17 00:13:43,099 - INFO - Processed: IMG_3544.AAE
+2026-01-17 00:13:43,099 - INFO - Using file timestamp for IMG_O3751.AAE
+2026-01-17 00:13:43,100 - INFO - Processed: IMG_O3751.AAE
+2026-01-17 00:13:43,100 - INFO - Using file timestamp for IMG_3550.AAE
+2026-01-17 00:13:43,101 - INFO - Processed: IMG_3550.AAE
+2026-01-17 00:13:43,101 - INFO - Using file timestamp for IMG_2128.AAE
+2026-01-17 00:13:43,103 - INFO - Processed: IMG_2128.AAE
+2026-01-17 00:13:45,177 - INFO - Processed: IMG_3318.JPG
+2026-01-17 00:13:45,181 - INFO - Processed: IMG_4305.JPG
+2026-01-17 00:13:45,182 - INFO - Using file timestamp for IMG_3558.DNG
+2026-01-17 00:13:45,183 - INFO - Processed: IMG_3558.DNG
+2026-01-17 00:13:45,187 - INFO - Processed: IMG_3324.JPG
+2026-01-17 00:13:45,188 - INFO - Using file timestamp for IMG_2990.JPG
+2026-01-17 00:13:45,189 - INFO - Processed: IMG_2990.JPG
+2026-01-17 00:13:45,189 - INFO - Using file timestamp for IMG_O2498.AAE
+2026-01-17 00:13:45,190 - INFO - Processed: IMG_O2498.AAE
+2026-01-17 00:13:45,190 - INFO - Using file timestamp for IMG_3564.DNG
+2026-01-17 00:13:45,191 - INFO - Processed: IMG_3564.DNG
+2026-01-17 00:13:45,191 - INFO - Using file timestamp for IMG_O2499.AAE
+2026-01-17 00:13:45,192 - INFO - Processed: IMG_O2499.AAE
+2026-01-17 00:13:45,192 - INFO - Using file timestamp for IMG_3571.DNG
+2026-01-17 00:13:45,192 - INFO - Processed: IMG_3571.DNG
+2026-01-17 00:13:46,995 - INFO - Processed Live Photo pair: IMG_3443.JPG + IMG_3443.MOV
+2026-01-17 00:13:46,995 - INFO - Using file timestamp for IMG_2840.AAE
+2026-01-17 00:13:46,997 - INFO - Processed: IMG_2840.AAE
+2026-01-17 00:13:46,998 - INFO - Using file timestamp for IMG_3559.DNG
+2026-01-17 00:13:46,999 - INFO - Processed: IMG_3559.DNG
+2026-01-17 00:13:46,999 - INFO - Using file timestamp for IMG_3551.AAE
+2026-01-17 00:13:47,001 - INFO - Processed: IMG_3551.AAE
+2026-01-17 00:13:49,246 - INFO - Processed Live Photo pair: IMG_E2729.JPG + IMG_E2729.MOV
+2026-01-17 00:13:49,250 - INFO - Processed: IMG_E3345.JPG
+2026-01-17 00:13:49,250 - INFO - Using file timestamp for IMG_O3750.AAE
+2026-01-17 00:13:49,251 - INFO - Processed: IMG_O3750.AAE
+2026-01-17 00:13:49,251 - INFO - Using file timestamp for IMG_3545.AAE
+2026-01-17 00:13:49,252 - INFO - Processed: IMG_3545.AAE
+2026-01-17 00:13:49,255 - INFO - Processed: IMG_2946.JPG
+2026-01-17 00:13:49,256 - INFO - Using file timestamp for IMG_4202.AAE
+2026-01-17 00:13:49,257 - INFO - Processed: IMG_4202.AAE
+2026-01-17 00:13:50,674 - INFO - Processed: IMG_E4199.JPG
+2026-01-17 00:13:50,678 - INFO - Processed Live Photo pair: IMG_3641.JPG + IMG_3641.MOV
+2026-01-17 00:13:50,681 - INFO - Processed Live Photo pair: IMG_2239.JPG + IMG_2239.MOV
+2026-01-17 00:13:52,857 - INFO - Processed Live Photo pair: IMG_3127.JPG + IMG_3127.MOV
+2026-01-17 00:13:52,858 - INFO - Using file timestamp for IMG_3983.DNG
+2026-01-17 00:13:52,859 - INFO - Processed: IMG_3983.DNG
+2026-01-17 00:13:52,863 - INFO - Processed: IMG_2211.JPG
+2026-01-17 00:13:52,864 - INFO - Using file timestamp for IMG_4034.DNG
+2026-01-17 00:13:52,865 - INFO - Processed: IMG_4034.DNG
+2026-01-17 00:13:52,869 - INFO - Processed: IMG_3669.JPG
+2026-01-17 00:13:52,872 - INFO - Processed Live Photo pair: IMG_2577.JPG + IMG_2577.MOV
+2026-01-17 00:13:52,874 - INFO - Processed: IMG_4112.JPG
+2026-01-17 00:13:54,306 - INFO - Processed: IMG_E3806.JPG
+2026-01-17 00:13:54,307 - INFO - Using file timestamp for IMG_3997.DNG
+2026-01-17 00:13:54,307 - INFO - Processed: IMG_3997.DNG
+2026-01-17 00:13:54,309 - INFO - Processed: IMG_2205.JPG
+2026-01-17 00:13:54,309 - INFO - Using file timestamp for IMG_2451.DNG
+2026-01-17 00:13:54,310 - INFO - Processed: IMG_2451.DNG
+2026-01-17 00:13:54,310 - INFO - Using file timestamp for IMG_O3546.AAE
+2026-01-17 00:13:54,310 - INFO - Processed: IMG_O3546.AAE
+2026-01-17 00:13:54,312 - INFO - Processed Live Photo pair: IMG_2588.JPG + IMG_2588.MOV
+2026-01-17 00:13:54,314 - INFO - Processed: IMG_E3635.JPG
+2026-01-17 00:13:54,316 - INFO - Processed Live Photo pair: IMG_3682.JPG + IMG_3682.MOV
+2026-01-17 00:13:54,317 - INFO - Using file timestamp for IMG_2991.PNG
+2026-01-17 00:13:54,317 - INFO - Processed: IMG_2991.PNG
+2026-01-17 00:13:54,318 - INFO - Using file timestamp for IMG_3968.DNG
+2026-01-17 00:13:54,319 - INFO - Processed: IMG_3968.DNG
+2026-01-17 00:13:54,319 - INFO - Using file timestamp for IMG_2486.DNG
+2026-01-17 00:13:54,320 - INFO - Processed: IMG_2486.DNG
+2026-01-17 00:13:54,322 - INFO - Processed Live Photo pair: IMG_3872.JPG + IMG_3872.MOV
+2026-01-17 00:13:54,322 - INFO - Using file timestamp for IMG_O4201.AAE
+2026-01-17 00:13:54,322 - INFO - Processed: IMG_O4201.AAE
+2026-01-17 00:13:54,322 - INFO - Using file timestamp for IMG_3954.DNG
+2026-01-17 00:13:54,323 - INFO - Processed: IMG_3954.DNG
+2026-01-17 00:13:56,488 - INFO - Processed Live Photo pair: IMG_3047.JPG + IMG_3047.MOV
+2026-01-17 00:13:56,491 - INFO - Processed Live Photo pair: IMG_2359.JPG + IMG_2359.MOV
+2026-01-17 00:13:56,493 - INFO - Processed Live Photo pair: IMG_2365.JPG + IMG_2365.MOV
+2026-01-17 00:13:56,493 - INFO - Using file timestamp for IMG_2531.DNG
+2026-01-17 00:13:56,494 - INFO - Processed: IMG_2531.DNG
+2026-01-17 00:13:56,496 - INFO - Processed: NJJZ1033.JPG
+2026-01-17 00:13:56,496 - INFO - Using file timestamp for IMG_4154.DNG
+2026-01-17 00:13:56,497 - INFO - Processed: IMG_4154.DNG
+2026-01-17 00:13:57,934 - INFO - Processed: IMG_2371.JPG
+2026-01-17 00:14:00,343 - INFO - Processed Live Photo pair: IMG_E2339.JPG + IMG_E2339.MOV
+2026-01-17 00:14:00,344 - INFO - Using file timestamp for IMG_3141.AAE
+2026-01-17 00:14:00,345 - INFO - Processed: IMG_3141.AAE
+2026-01-17 00:14:00,346 - INFO - Using file timestamp for IMG_3627.AAE
+2026-01-17 00:14:00,347 - INFO - Processed: IMG_3627.AAE
+2026-01-17 00:14:00,348 - INFO - Processed: CSVB8388.JPG
+2026-01-17 00:14:00,348 - INFO - Using file timestamp for IMG_3633.AAE
+2026-01-17 00:14:00,349 - INFO - Processed: IMG_3633.AAE
+2026-01-17 00:14:00,349 - INFO - Using file timestamp for IMG_O3340.AAE
+2026-01-17 00:14:00,350 - INFO - Processed: IMG_O3340.AAE
+2026-01-17 00:14:00,350 - INFO - Using file timestamp for IMG_4174.AAE
+2026-01-17 00:14:00,351 - INFO - Processed: IMG_4174.AAE
+2026-01-17 00:14:00,351 - INFO - Using file timestamp for IMG_2920.AAE
+2026-01-17 00:14:00,352 - INFO - Processed: IMG_2920.AAE
+2026-01-17 00:14:00,355 - INFO - Processed: IMG_3523.JPG
+2026-01-17 00:14:01,780 - INFO - Processed Live Photo pair: IMG_3245.JPG + IMG_3245.MOV
+2026-01-17 00:14:01,782 - INFO - Processed: IMG_4258.JPG
+2026-01-17 00:14:01,784 - INFO - Processed: IMG_3537.JPG
+2026-01-17 00:14:01,784 - INFO - Using file timestamp for IMG_3363.DNG
+2026-01-17 00:14:01,784 - INFO - Processed: IMG_3363.DNG
+2026-01-17 00:14:01,785 - INFO - Processed: IMG_4270.JPG
+2026-01-17 00:14:03,888 - INFO - Processed Live Photo pair: IMG_2601.JPG + IMG_2601.MOV
+2026-01-17 00:14:03,890 - INFO - Processed: IGNM9896.JPG
+2026-01-17 00:14:03,891 - INFO - Processed: VPEM3824.JPG
+2026-01-17 00:14:03,892 - INFO - Processed Live Photo pair: IMG_2167.JPG + IMG_2167.MOV
+2026-01-17 00:14:05,921 - INFO - Processed Live Photo pair: IMG_2173.JPG + IMG_2173.MOV
+2026-01-17 00:14:05,924 - INFO - Processed: IMG_4264.JPG
+2026-01-17 00:14:05,926 - INFO - Processed: IMG_E3543.JPG
+2026-01-17 00:14:05,926 - INFO - Using file timestamp for IMG_3343.AAE
+2026-01-17 00:14:05,927 - INFO - Processed: IMG_3343.AAE
+2026-01-17 00:14:05,928 - INFO - Processed: IMG_2198.JPG
+2026-01-17 00:14:05,928 - INFO - Using file timestamp for IMG_O3624.AAE
+2026-01-17 00:14:05,929 - INFO - Processed: IMG_O3624.AAE
+2026-01-17 00:14:05,929 - INFO - Using file timestamp for IMG_3709.PNG
+2026-01-17 00:14:05,930 - INFO - Processed: IMG_3709.PNG
+2026-01-17 00:14:05,986 - INFO - Using file timestamp for DVXG4482.PNG
+2026-01-17 00:14:05,987 - INFO - Processed: DVXG4482.PNG
+2026-01-17 00:14:05,987 - INFO - Using file timestamp for IMG_2082.DNG
+2026-01-17 00:14:05,988 - INFO - Processed: IMG_2082.DNG
+2026-01-17 00:14:05,988 - INFO - Using file timestamp for IMG_O3618.AAE
+2026-01-17 00:14:05,988 - INFO - Processed: IMG_O3618.AAE
+2026-01-17 00:14:05,988 - INFO - Using file timestamp for IMG_O3620.AAE
+2026-01-17 00:14:05,988 - INFO - Processed: IMG_O3620.AAE
+2026-01-17 00:14:05,989 - INFO - Processed: XRAU6485.JPG
+2026-01-17 00:14:05,989 - INFO - Using file timestamp for IMG_O3634.AAE
+2026-01-17 00:14:05,990 - INFO - Processed: IMG_O3634.AAE
+2026-01-17 00:14:05,991 - INFO - Processed: IMG_E3547.JPG
+2026-01-17 00:14:05,991 - INFO - Processed: IMG_E4200.JPG
+2026-01-17 00:14:05,991 - INFO - Using file timestamp for IMG_2086.DNG
+2026-01-17 00:14:05,992 - INFO - Processed: IMG_2086.DNG
+2026-01-17 00:14:05,992 - INFO - Using file timestamp for IMG_2092.DNG
+2026-01-17 00:14:05,992 - INFO - Processed: IMG_2092.DNG
+2026-01-17 00:14:05,994 - INFO - Processed: IMG_3533.JPG
+2026-01-17 00:14:08,088 - INFO - Processed: IMG_E3584.JPG
+2026-01-17 00:14:08,089 - INFO - Processed Live Photo pair: IMG_3527.JPG + IMG_3527.MOV
+2026-01-17 00:14:08,089 - INFO - Using file timestamp for IMG_O4198.AAE
+2026-01-17 00:14:08,090 - INFO - Processed: IMG_O4198.AAE
+2026-01-17 00:14:08,091 - INFO - Processed: IMG_4260.JPG
+2026-01-17 00:14:10,115 - INFO - Processed Live Photo pair: IMG_2177.JPG + IMG_2177.MOV
+2026-01-17 00:14:10,120 - INFO - Processed: IMG_4274.JPG
+2026-01-17 00:14:10,120 - INFO - Using file timestamp for IMG_O3344.AAE
+2026-01-17 00:14:10,121 - INFO - Processed: IMG_O3344.AAE
+2026-01-17 00:14:10,218 - INFO - Using file timestamp for IMG_2639.PNG
+2026-01-17 00:14:10,219 - INFO - Processed: IMG_2639.PNG
+2026-01-17 00:14:12,836 - INFO - Processed: IMG_E3751.JPG
+2026-01-17 00:14:12,836 - INFO - Using file timestamp for IMG_4158.AAE
+2026-01-17 00:14:12,838 - INFO - Processed: IMG_4158.AAE
+2026-01-17 00:14:14,281 - INFO - Processed: IMG_4089.JPG
+2026-01-17 00:14:14,281 - INFO - Using file timestamp for IMG_4193.DNG
+2026-01-17 00:14:14,284 - INFO - Processed: IMG_4193.DNG
+2026-01-17 00:14:14,286 - INFO - Processed Live Photo pair: IMG_2349.JPG + IMG_2349.MOV
+2026-01-17 00:14:16,485 - INFO - Processed Live Photo pair: IMG_3057.JPG + IMG_3057.MOV
+2026-01-17 00:14:16,486 - INFO - Using file timestamp for IMG_3603.DNG
+2026-01-17 00:14:16,486 - INFO - Processed: IMG_3603.DNG
+2026-01-17 00:14:16,486 - INFO - Using file timestamp for IMG_3838.AAE
+2026-01-17 00:14:16,488 - INFO - Processed: IMG_3838.AAE
+2026-01-17 00:14:18,199 - INFO - Processed: IMG_E2498.JPG
+2026-01-17 00:14:18,199 - INFO - Using file timestamp for IMG_2509.DNG
+2026-01-17 00:14:18,201 - INFO - Processed: IMG_2509.DNG
+2026-01-17 00:14:20,313 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.20302222222222&lon=121.49408611111112&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:14:21,435 - INFO - Processed Live Photo pair: IMG_2375.JPG + IMG_2375.MOV
+2026-01-17 00:14:21,436 - INFO - Using file timestamp for IMG_4150.DNG
+2026-01-17 00:14:21,437 - INFO - Processed: IMG_4150.DNG
+2026-01-17 00:14:21,437 - INFO - Using file timestamp for IMG_2535.DNG
+2026-01-17 00:14:21,437 - INFO - Processed: IMG_2535.DNG
+2026-01-17 00:14:21,440 - INFO - Processed Live Photo pair: IMG_2361.JPG + IMG_2361.MOV
+2026-01-17 00:14:21,440 - INFO - Using file timestamp for IMG_4144.DNG
+2026-01-17 00:14:21,441 - INFO - Processed: IMG_4144.DNG
+2026-01-17 00:14:21,442 - INFO - Processed Live Photo pair: IMG_2598.JPG + IMG_2598.MOV
+2026-01-17 00:14:21,444 - INFO - Processed: IMG_E3631.JPG
+2026-01-17 00:14:21,444 - INFO - Using file timestamp for IMG_3978.DNG
+2026-01-17 00:14:21,445 - INFO - Processed: IMG_3978.DNG
+2026-01-17 00:14:21,445 - INFO - Using file timestamp for IMG_2496.DNG
+2026-01-17 00:14:21,446 - INFO - Processed: IMG_2496.DNG
+2026-01-17 00:14:21,446 - INFO - Using file timestamp for IMG_4010.AAE
+2026-01-17 00:14:21,447 - INFO - Processed: IMG_4010.AAE
+2026-01-17 00:14:21,449 - INFO - Processed Live Photo pair: IMG_3876.JPG + IMG_3876.MOV
+2026-01-17 00:14:21,449 - INFO - Using file timestamp for IMG_3944.DNG
+2026-01-17 00:14:21,450 - INFO - Processed: IMG_3944.DNG
+2026-01-17 00:14:21,450 - INFO - Using file timestamp for IMG_2482.DNG
+2026-01-17 00:14:21,450 - INFO - Processed: IMG_2482.DNG
+2026-01-17 00:14:21,451 - INFO - Using file timestamp for IMG_2469.DNG
+2026-01-17 00:14:21,451 - INFO - Processed: IMG_2469.DNG
+2026-01-17 00:14:21,453 - INFO - Processed Live Photo pair: IMG_3645.JPG + IMG_3645.MOV
+2026-01-17 00:14:21,458 - INFO - Processed: IMG_2243.MOV
+2026-01-17 00:14:23,459 - INFO - Processed Live Photo pair: IMG_3889.JPG + IMG_3889.MOV
+2026-01-17 00:14:23,461 - INFO - Processed Live Photo pair: IMG_2229.JPG + IMG_2229.MOV
+2026-01-17 00:14:23,461 - INFO - Using file timestamp for IMG_3993.DNG
+2026-01-17 00:14:23,461 - INFO - Processed: IMG_3993.DNG
+2026-01-17 00:14:23,462 - INFO - Processed: IMG_2201.JPG
+2026-01-17 00:14:25,477 - INFO - Processed Live Photo pair: IMG_E3802.JPG + IMG_E3802.MOV
+2026-01-17 00:14:25,482 - INFO - Processed: IMG_3175.MOV
+2026-01-17 00:14:25,484 - INFO - Processed Live Photo pair: IMG_3679.JPG + IMG_3679.MOV
+2026-01-17 00:14:25,486 - INFO - Processed: JMXY5712.JPG
+2026-01-17 00:14:27,062 - INFO - Processed: IMG_E3816.JPG
+2026-01-17 00:14:27,063 - INFO - Using file timestamp for IMG_4030.DNG
+2026-01-17 00:14:27,064 - INFO - Processed: IMG_4030.DNG
+2026-01-17 00:14:27,065 - INFO - Using file timestamp for IMG_3987.DNG
+2026-01-17 00:14:27,066 - INFO - Processed: IMG_3987.DNG
+2026-01-17 00:14:27,069 - INFO - Processed: IMG_2215.JPG
+2026-01-17 00:14:29,178 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.221852777777777&lon=121.46211944444445&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:14:30,181 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.221852777777777&lon=121.46211944444445&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:14:31,266 - INFO - Processed Live Photo pair: IMG_2942.JPG + IMG_2942.MOV
+2026-01-17 00:14:31,270 - INFO - Processed: IMG_E3341.JPG
+2026-01-17 00:14:31,272 - INFO - Processed: SDGR6489.JPG
+2026-01-17 00:14:31,273 - INFO - Using file timestamp for IMG_3569.AAE
+2026-01-17 00:14:31,275 - INFO - Processed: IMG_3569.AAE
+2026-01-17 00:14:32,731 - INFO - Processed: IMG_E2922.JPG
+2026-01-17 00:14:32,731 - INFO - Using file timestamp for IMG_3575.DNG
+2026-01-17 00:14:32,733 - INFO - Processed: IMG_3575.DNG
+2026-01-17 00:14:34,814 - INFO - Processed Live Photo pair: IMG_3321.JPG + IMG_3321.MOV
+2026-01-17 00:14:34,815 - INFO - Using file timestamp for IMG_3561.DNG
+2026-01-17 00:14:34,816 - INFO - Processed: IMG_3561.DNG
+2026-01-17 00:14:34,816 - INFO - Using file timestamp for IMG_2850.AAE
+2026-01-17 00:14:34,818 - INFO - Processed: IMG_2850.AAE
+2026-01-17 00:14:34,819 - INFO - Using file timestamp for IMG_3686.PNG
+2026-01-17 00:14:34,820 - INFO - Processed: IMG_3686.PNG
+2026-01-17 00:14:34,822 - INFO - Using file timestamp for IMG_4314.JPG
+2026-01-17 00:14:34,823 - INFO - Processed: IMG_4314.JPG
+2026-01-17 00:14:34,824 - INFO - Using file timestamp for IMG_4232.DNG
+2026-01-17 00:14:34,825 - INFO - Processed: IMG_4232.DNG
+2026-01-17 00:14:34,827 - INFO - Processed: NSTH5880.JPG
+2026-01-17 00:14:36,229 - INFO - Processed: IMG_2771.JPG
+2026-01-17 00:14:36,229 - INFO - Using file timestamp for IMG_2124.DNG
+2026-01-17 00:14:36,230 - INFO - Processed: IMG_2124.DNG
+2026-01-17 00:14:36,231 - INFO - Processed: IMG_2770.JPG
+2026-01-17 00:14:36,231 - INFO - Using file timestamp for IMG_4227.DNG
+2026-01-17 00:14:36,232 - INFO - Processed: IMG_4227.DNG
+2026-01-17 00:14:36,233 - INFO - Processed Live Photo pair: IMG_3334.JPG + IMG_3334.MOV
+2026-01-17 00:14:36,233 - INFO - Using file timestamp for IMG_3560.DNG
+2026-01-17 00:14:36,234 - INFO - Processed: IMG_3560.DNG
+2026-01-17 00:14:36,234 - INFO - Using file timestamp for IMG_2118.DNG
+2026-01-17 00:14:36,235 - INFO - Processed: IMG_2118.DNG
+2026-01-17 00:14:38,456 - INFO - Processed Live Photo pair: IMG_3446.JPG + IMG_3446.MOV
+2026-01-17 00:14:38,460 - INFO - Processed Live Photo pair: IMG_3320.JPG + IMG_3320.MOV
+2026-01-17 00:14:38,460 - INFO - Using file timestamp for IMG_3574.DNG
+2026-01-17 00:14:38,461 - INFO - Processed: IMG_3574.DNG
+2026-01-17 00:14:38,461 - INFO - Using file timestamp for IMG_3568.AAE
+2026-01-17 00:14:38,462 - INFO - Processed: IMG_3568.AAE
+2026-01-17 00:14:38,466 - INFO - Processed Live Photo pair: IMG_2943.JPG + IMG_2943.MOV
+2026-01-17 00:14:38,466 - INFO - Using file timestamp for IMG_2138.AAE
+2026-01-17 00:14:38,468 - INFO - Processed: IMG_2138.AAE
+2026-01-17 00:14:39,905 - INFO - Processed: IMG_E3340.JPG
+2026-01-17 00:14:39,909 - INFO - Processed Live Photo pair: IMG_2572.JPG + IMG_2572.MOV
+2026-01-17 00:14:39,912 - INFO - Processed: IMG_2214.JPG
+2026-01-17 00:14:39,913 - INFO - Using file timestamp for IMG_3986.DNG
+2026-01-17 00:14:39,914 - INFO - Processed: IMG_3986.DNG
+2026-01-17 00:14:39,916 - INFO - Processed: IMG_2200.JPG
+2026-01-17 00:14:39,917 - INFO - Using file timestamp for IMG_3992.DNG
+2026-01-17 00:14:39,917 - INFO - Processed: IMG_3992.DNG
+2026-01-17 00:14:39,920 - INFO - Processed: IMG_3678.JPG
+2026-01-17 00:14:39,923 - INFO - Processed: IMG_3650.JPG
+2026-01-17 00:14:39,924 - INFO - Processed Live Photo pair: IMG_2228.JPG + IMG_2228.MOV
+2026-01-17 00:14:39,926 - INFO - Processed: LDLS0737.JPG
+2026-01-17 00:14:39,926 - INFO - Using file timestamp for IMG_2468.DNG
+2026-01-17 00:14:39,926 - INFO - Processed: IMG_2468.DNG
+2026-01-17 00:14:39,929 - INFO - Processed Live Photo pair: IMG_3644.JPG + IMG_3644.MOV
+2026-01-17 00:14:39,930 - INFO - Processed Live Photo pair: IMG_3877.JPG + IMG_3877.MOV
+2026-01-17 00:14:39,930 - INFO - Using file timestamp for IMG_2483.DNG
+2026-01-17 00:14:39,931 - INFO - Processed: IMG_2483.DNG
+2026-01-17 00:14:39,931 - INFO - Using file timestamp for IMG_3945.DNG
+2026-01-17 00:14:39,931 - INFO - Processed: IMG_3945.DNG
+2026-01-17 00:14:39,931 - INFO - Using file timestamp for IMG_2497.DNG
+2026-01-17 00:14:39,932 - INFO - Processed: IMG_2497.DNG
+2026-01-17 00:14:39,932 - INFO - Using file timestamp for IMG_3951.DNG
+2026-01-17 00:14:39,933 - INFO - Processed: IMG_3951.DNG
+2026-01-17 00:14:39,934 - INFO - Processed: IMG_E3618.JPG
+2026-01-17 00:14:39,934 - INFO - Using file timestamp for IMG_O3543.AAE
+2026-01-17 00:14:39,934 - INFO - Processed: IMG_O3543.AAE
+2026-01-17 00:14:39,934 - INFO - Using file timestamp for IMG_3979.DNG
+2026-01-17 00:14:39,935 - INFO - Processed: IMG_3979.DNG
+2026-01-17 00:14:39,937 - INFO - Processed Live Photo pair: IMG_2599.JPG + IMG_2599.MOV
+2026-01-17 00:14:42,638 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.065475&lon=121.19155277777779&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:14:43,641 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.065475&lon=121.19155277777779&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:14:44,904 - INFO - Processed: IMG_E3624.JPG
+2026-01-17 00:14:44,904 - INFO - Using file timestamp for IMG_4145.DNG
+2026-01-17 00:14:44,905 - INFO - Processed: IMG_4145.DNG
+2026-01-17 00:14:44,909 - INFO - Processed Live Photo pair: IMG_2360.JPG + IMG_2360.MOV
+2026-01-17 00:14:44,910 - INFO - Using file timestamp for IMG_2534.DNG
+2026-01-17 00:14:44,913 - INFO - Processed: IMG_2534.DNG
+2026-01-17 00:14:46,669 - INFO - Processed Live Photo pair: IMG_2374.JPG + IMG_2374.MOV
+2026-01-17 00:14:46,670 - INFO - Using file timestamp for DBTT5928.JPG
+2026-01-17 00:14:46,671 - INFO - Processed: DBTT5928.JPG
+2026-01-17 00:14:46,674 - INFO - Processed: IMG_E2499.JPG
+2026-01-17 00:14:46,674 - INFO - Using file timestamp for IMG_3839.AAE
+2026-01-17 00:14:46,676 - INFO - Processed: IMG_3839.AAE
+2026-01-17 00:14:46,678 - INFO - Processed: IMG_3056.JPG
+2026-01-17 00:14:48,776 - INFO - Processed Live Photo pair: IMG_2348.JPG + IMG_2348.MOV
+2026-01-17 00:14:48,780 - INFO - Processed: OOSM3054.JPG
+2026-01-17 00:14:48,780 - INFO - Using file timestamp for IMG_4186.DNG
+2026-01-17 00:14:48,781 - INFO - Processed: IMG_4186.DNG
+2026-01-17 00:14:48,781 - INFO - Using file timestamp for IMG_4192.DNG
+2026-01-17 00:14:48,783 - INFO - Processed: IMG_4192.DNG
+2026-01-17 00:14:48,783 - INFO - Using file timestamp for IMG_3622.AAE
+2026-01-17 00:14:48,785 - INFO - Processed: IMG_3622.AAE
+2026-01-17 00:14:48,785 - INFO - Using file timestamp for IMG_O3345.AAE
+2026-01-17 00:14:48,787 - INFO - Processed: IMG_O3345.AAE
+2026-01-17 00:14:48,789 - INFO - Processed: IMG_E3750.JPG
+2026-01-17 00:14:48,789 - INFO - Using file timestamp for IMG_2528.AAE
+2026-01-17 00:14:48,790 - INFO - Processed: IMG_2528.AAE
+2026-01-17 00:14:48,793 - INFO - Processed Live Photo pair: IMG_2162.JPG + IMG_2162.MOV
+2026-01-17 00:14:50,275 - INFO - Processed: IMG_4275.JPG
+2026-01-17 00:14:50,275 - INFO - Using file timestamp for IMG_O3806.AAE
+2026-01-17 00:14:50,276 - INFO - Processed: IMG_O3806.AAE
+2026-01-17 00:14:50,279 - INFO - Processed: IMG_4261.JPG
+2026-01-17 00:14:52,323 - INFO - Processed Live Photo pair: IMG_2176.JPG + IMG_2176.MOV
+2026-01-17 00:14:53,841 - INFO - Processed Live Photo pair: IMG_3268.JPG + IMG_3268.MOV
+2026-01-17 00:14:53,841 - INFO - Using file timestamp for IMG_O4199.AAE
+2026-01-17 00:14:53,842 - INFO - Processed: IMG_O4199.AAE
+2026-01-17 00:14:53,845 - INFO - Processed Live Photo pair: IMG_3526.JPG + IMG_3526.MOV
+2026-01-17 00:14:53,846 - INFO - Processed: IMG_3532.JPG
+2026-01-17 00:14:53,846 - INFO - Using file timestamp for IMG_3366.DNG
+2026-01-17 00:14:53,847 - INFO - Processed: IMG_3366.DNG
+2026-01-17 00:14:53,847 - INFO - Using file timestamp for IMG_2093.DNG
+2026-01-17 00:14:53,848 - INFO - Processed: IMG_2093.DNG
+2026-01-17 00:14:53,848 - INFO - Using file timestamp for IMG_2087.DNG
+2026-01-17 00:14:53,849 - INFO - Processed: IMG_2087.DNG
+2026-01-17 00:14:55,876 - INFO - Processed: IMG_E4201.JPG
+2026-01-17 00:14:55,880 - INFO - Processed: IMG_E3546.JPG
+2026-01-17 00:14:55,880 - INFO - Using file timestamp for IMG_O3635.AAE
+2026-01-17 00:14:55,881 - INFO - Processed: IMG_O3635.AAE
+2026-01-17 00:14:57,579 - INFO - Processed Live Photo pair: IMG_3297.JPG + IMG_3297.MOV
+2026-01-17 00:14:57,580 - INFO - Processed: IMG_E3544.JPG
+2026-01-17 00:14:57,581 - INFO - Using file timestamp for IMG_3344.AAE
+2026-01-17 00:14:57,581 - INFO - Processed: IMG_3344.AAE
+2026-01-17 00:14:59,892 - INFO - Processed: IMG_E2128.JPG
+2026-01-17 00:14:59,895 - INFO - Processed: IMG_E3550.JPG
+2026-01-17 00:14:59,895 - INFO - Using file timestamp for IMG_2091.DNG
+2026-01-17 00:14:59,895 - INFO - Processed: IMG_2091.DNG
+2026-01-17 00:15:01,341 - INFO - Processed: IMG_2809.JPG
+2026-01-17 00:15:01,341 - INFO - Using file timestamp for IMG_2085.DNG
+2026-01-17 00:15:01,342 - INFO - Processed: IMG_2085.DNG
+2026-01-17 00:15:01,346 - INFO - Processed Live Photo pair: IMG_3524.JPG + IMG_3524.MOV
+2026-01-17 00:15:03,743 - INFO - Processed Live Photo pair: IMG_3242.JPG + IMG_3242.MOV
+2026-01-17 00:15:05,407 - INFO - Processed Live Photo pair: IMG_2148.JPG + IMG_2148.MOV
+2026-01-17 00:15:05,407 - INFO - Using file timestamp for IMG_O3838.AAE
+2026-01-17 00:15:05,408 - INFO - Processed: IMG_O3838.AAE
+2026-01-17 00:15:05,411 - INFO - Processed: IMG_4277.JPG
+2026-01-17 00:15:07,544 - INFO - Processed Live Photo pair: IMG_3518.JPG + IMG_3518.MOV
+2026-01-17 00:15:07,547 - INFO - Processed Live Photo pair: IMG_2160.JPG + IMG_2160.MOV
+2026-01-17 00:15:07,550 - INFO - Processed Live Photo pair: IMG_2174.JPG + IMG_2174.MOV
+2026-01-17 00:15:07,552 - INFO - Processed: IMG_4263.JPG
+2026-01-17 00:15:07,552 - INFO - Using file timestamp for IMG_3358.DNG
+2026-01-17 00:15:07,554 - INFO - Processed: IMG_3358.DNG
+2026-01-17 00:15:07,554 - INFO - Using file timestamp for IMG_3620.AAE
+2026-01-17 00:15:07,555 - INFO - Processed: IMG_3620.AAE
+2026-01-17 00:15:07,557 - INFO - Processed: CRVI7330.JPG
+2026-01-17 00:15:07,557 - INFO - Using file timestamp for IMG_3634.AAE
+2026-01-17 00:15:07,558 - INFO - Processed: IMG_3634.AAE
+2026-01-17 00:15:08,984 - INFO - Processed: IMG_3097.JPG
+2026-01-17 00:15:08,984 - INFO - Using file timestamp for IMG_4184.DNG
+2026-01-17 00:15:08,987 - INFO - Processed: IMG_4184.DNG
+2026-01-17 00:15:08,987 - INFO - Using file timestamp for IMG_4190.DNG
+2026-01-17 00:15:08,988 - INFO - Processed: IMG_4190.DNG
+2026-01-17 00:15:08,988 - INFO - Using file timestamp for IMG_4198.AAE
+2026-01-17 00:15:08,989 - INFO - Processed: IMG_4198.AAE
+2026-01-17 00:15:11,014 - INFO - Processed Live Photo pair: IMG_3054.JPG + IMG_3054.MOV
+2026-01-17 00:15:11,018 - INFO - Processed Live Photo pair: IMG_2362.JPG + IMG_2362.MOV
+2026-01-17 00:15:11,019 - INFO - Using file timestamp for IMG_2536.DNG
+2026-01-17 00:15:11,019 - INFO - Processed: IMG_2536.DNG
+2026-01-17 00:15:11,020 - INFO - Using file timestamp for IMG_4147.DNG
+2026-01-17 00:15:11,020 - INFO - Processed: IMG_4147.DNG
+2026-01-17 00:15:11,021 - INFO - Using file timestamp for IMG_4153.DNG
+2026-01-17 00:15:11,021 - INFO - Processed: IMG_4153.DNG
+2026-01-17 00:15:12,431 - INFO - Processed Live Photo pair: IMG_3068.JPG + IMG_3068.MOV
+2026-01-17 00:15:12,435 - INFO - Processed: IMG_E3632.JPG
+2026-01-17 00:15:14,547 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.971538888888887&lon=120.93958888888889&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:15:15,753 - INFO - Processed Live Photo pair: IMG_3849.JPG + IMG_3849.MOV
+2026-01-17 00:15:17,198 - INFO - Processed: IMG_E3140.JPG
+2026-01-17 00:15:17,199 - INFO - Using file timestamp for IMG_3947.DNG
+2026-01-17 00:15:17,201 - INFO - Processed: IMG_3947.DNG
+2026-01-17 00:15:17,201 - INFO - Using file timestamp for IMG_2481.DNG
+2026-01-17 00:15:17,202 - INFO - Processed: IMG_2481.DNG
+2026-01-17 00:15:17,207 - INFO - Processed Live Photo pair: IMG_3875.JPG + IMG_3875.MOV
+2026-01-17 00:15:19,315 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=32.045161111111106&lon=118.78133333333334&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:15:20,630 - INFO - Processed: IMG_E4175.JPG
+2026-01-17 00:15:22,054 - INFO - Processed Live Photo pair: IMG_3861.JPG + IMG_3861.MOV
+2026-01-17 00:15:22,054 - INFO - Using file timestamp for IMG_O3569.AAE
+2026-01-17 00:15:22,056 - INFO - Processed: IMG_O3569.AAE
+2026-01-17 00:15:22,056 - INFO - Using file timestamp for IMG_3953.DNG
+2026-01-17 00:15:22,057 - INFO - Processed: IMG_3953.DNG
+2026-01-17 00:15:22,057 - INFO - Using file timestamp for IMG_2495.DNG
+2026-01-17 00:15:22,057 - INFO - Processed: IMG_2495.DNG
+2026-01-17 00:15:22,062 - INFO - Processed: IMG_2240.MOV
+2026-01-17 00:15:22,064 - INFO - Processed Live Photo pair: IMG_3646.JPG + IMG_3646.MOV
+2026-01-17 00:15:22,064 - INFO - Using file timestamp for IMG_O2850.AAE
+2026-01-17 00:15:22,065 - INFO - Processed: IMG_O2850.AAE
+2026-01-17 00:15:24,096 - INFO - Processed Live Photo pair: IMG_3108.JPG + IMG_3108.MOV
+2026-01-17 00:15:24,096 - INFO - Using file timestamp for IMG_4033.DNG
+2026-01-17 00:15:24,097 - INFO - Processed: IMG_4033.DNG
+2026-01-17 00:15:24,097 - INFO - Using file timestamp for IMG_3984.DNG
+2026-01-17 00:15:24,098 - INFO - Processed: IMG_3984.DNG
+2026-01-17 00:15:24,098 - INFO - Using file timestamp for IMG_4027.DNG
+2026-01-17 00:15:24,099 - INFO - Processed: IMG_4027.DNG
+2026-01-17 00:15:24,099 - INFO - Using file timestamp for IMG_3990.DNG
+2026-01-17 00:15:24,099 - INFO - Processed: IMG_3990.DNG
+2026-01-17 00:15:24,101 - INFO - Processed: IMG_2202.JPG
+2026-01-17 00:15:25,533 - INFO - Processed: IMG_E3430.JPG
+2026-01-17 00:15:25,533 - INFO - Using file timestamp for IMG_2873.DNG
+2026-01-17 00:15:25,534 - INFO - Processed: IMG_2873.DNG
+2026-01-17 00:15:25,537 - INFO - Processed: IMG_E3342.JPG
+2026-01-17 00:15:25,540 - INFO - Processed: IMG_2095.MOV
+2026-01-17 00:15:28,110 - INFO - Processed Live Photo pair: IMG_2941.JPG + IMG_2941.MOV
+2026-01-17 00:15:28,110 - INFO - Using file timestamp for IMG_4205.AAE
+2026-01-17 00:15:28,112 - INFO - Processed: IMG_4205.AAE
+2026-01-17 00:15:29,555 - INFO - Processed Live Photo pair: IMG_2969.JPG + IMG_2969.MOV
+2026-01-17 00:15:29,555 - INFO - Using file timestamp for IMG_O4010.AAE
+2026-01-17 00:15:29,556 - INFO - Processed: IMG_O4010.AAE
+2026-01-17 00:15:29,557 - INFO - Using file timestamp for IMG_3589.DNG
+2026-01-17 00:15:29,557 - INFO - Processed: IMG_3589.DNG
+2026-01-17 00:15:29,559 - INFO - Using file timestamp for IMG_E4377.JPG
+2026-01-17 00:15:29,560 - INFO - Processed: IMG_E4377.JPG
+2026-01-17 00:15:31,645 - INFO - Processed Live Photo pair: IMG_3450.JPG + IMG_3450.MOV
+2026-01-17 00:15:31,647 - INFO - Processed: IMG_3336.JPG
+2026-01-17 00:15:31,647 - INFO - Using file timestamp for IMG_3562.DNG
+2026-01-17 00:15:31,648 - INFO - Processed: IMG_3562.DNG
+2026-01-17 00:15:31,649 - INFO - Processed: IMG_3322.JPG
+2026-01-17 00:15:33,089 - INFO - Processed Live Photo pair: IMG_3444.JPG + IMG_3444.MOV
+2026-01-17 00:15:35,423 - INFO - Processed: IMG_E2921.JPG
+2026-01-17 00:15:35,425 - INFO - Processed: IMG_2772.JPG
+2026-01-17 00:15:35,425 - INFO - Using file timestamp for IMG_4231.DNG
+2026-01-17 00:15:35,426 - INFO - Processed: IMG_4231.DNG
+2026-01-17 00:15:35,427 - INFO - Using file timestamp for IMG_4302.JPG
+2026-01-17 00:15:35,427 - INFO - Processed: IMG_4302.JPG
+2026-01-17 00:15:35,428 - INFO - Using file timestamp for IMG_4230.DNG
+2026-01-17 00:15:35,428 - INFO - Processed: IMG_4230.DNG
+2026-01-17 00:15:35,429 - INFO - Processed: IMG_3323.JPG
+2026-01-17 00:15:35,430 - INFO - Processed: IMG_E2920.JPG
+2026-01-17 00:15:35,430 - INFO - Using file timestamp for IMG_3563.DNG
+2026-01-17 00:15:35,430 - INFO - Processed: IMG_3563.DNG
+2026-01-17 00:15:35,431 - INFO - Processed: IMG_3337.JPG
+2026-01-17 00:15:36,855 - INFO - Processed Live Photo pair: IMG_2968.JPG + IMG_2968.MOV
+2026-01-17 00:15:36,857 - INFO - Processed: IMG_E3343.JPG
+2026-01-17 00:15:36,859 - INFO - Processed Live Photo pair: IMG_2940.JPG + IMG_2940.MOV
+2026-01-17 00:15:36,859 - INFO - Using file timestamp for IMG_3543.AAE
+2026-01-17 00:15:36,860 - INFO - Processed: IMG_3543.AAE
+2026-01-17 00:15:36,862 - INFO - Processed: VZTW1189.JPG
+2026-01-17 00:15:36,863 - INFO - Processed: IMG_2203.JPG
+2026-01-17 00:15:36,863 - INFO - Using file timestamp for IMG_3991.DNG
+2026-01-17 00:15:36,864 - INFO - Processed: IMG_3991.DNG
+2026-01-17 00:15:36,864 - INFO - Using file timestamp for IMG_3985.DNG
+2026-01-17 00:15:36,865 - INFO - Processed: IMG_3985.DNG
+2026-01-17 00:15:36,868 - INFO - Processed: IMG_4100.JPG
+2026-01-17 00:15:38,980 - INFO - Processed Live Photo pair: IMG_3647.JPG + IMG_3647.MOV
+2026-01-17 00:15:38,980 - INFO - Using file timestamp for IMG_O3568.AAE
+2026-01-17 00:15:38,982 - INFO - Processed: IMG_O3568.AAE
+2026-01-17 00:15:38,984 - INFO - Processed Live Photo pair: IMG_3860.JPG + IMG_3860.MOV
+2026-01-17 00:15:40,425 - INFO - Processed: IMG_E4174.JPG
+2026-01-17 00:15:40,425 - INFO - Using file timestamp for IMG_2494.DNG
+2026-01-17 00:15:40,427 - INFO - Processed: IMG_2494.DNG
+2026-01-17 00:15:40,427 - INFO - Using file timestamp for IMG_3952.DNG
+2026-01-17 00:15:40,428 - INFO - Processed: IMG_3952.DNG
+2026-01-17 00:15:40,431 - INFO - Processed: JZOS8296.JPG
+2026-01-17 00:15:40,431 - INFO - Using file timestamp for IMG_3946.DNG
+2026-01-17 00:15:40,432 - INFO - Processed: IMG_3946.DNG
+2026-01-17 00:15:40,433 - INFO - Processed Live Photo pair: IMG_3874.JPG + IMG_3874.MOV
+2026-01-17 00:15:42,839 - INFO - Processed: IMG_E3627.JPG
+2026-01-17 00:15:42,844 - INFO - Processed: IMG_E3141.JPG
+2026-01-17 00:15:42,845 - INFO - Using file timestamp for IMG_2339.AAE
+2026-01-17 00:15:42,847 - INFO - Processed: IMG_2339.AAE
+2026-01-17 00:15:42,847 - INFO - Using file timestamp for IMG_O2138.AAE
+2026-01-17 00:15:42,849 - INFO - Processed: IMG_O2138.AAE
+2026-01-17 00:15:42,851 - INFO - Processed: IMG_3848.JPG
+2026-01-17 00:15:42,854 - INFO - Processed: IMG_E3633.JPG
+2026-01-17 00:15:42,856 - INFO - Processed Live Photo pair: IMG_3069.JPG + IMG_3069.MOV
+2026-01-17 00:15:42,859 - INFO - Processed Live Photo pair: IMG_2377.JPG + IMG_2377.MOV
+2026-01-17 00:15:42,859 - INFO - Using file timestamp for IMG_4146.DNG
+2026-01-17 00:15:42,860 - INFO - Processed: IMG_4146.DNG
+2026-01-17 00:15:42,860 - INFO - Using file timestamp for IMG_2537.DNG
+2026-01-17 00:15:42,861 - INFO - Processed: IMG_2537.DNG
+2026-01-17 00:15:42,863 - INFO - Processed Live Photo pair: IMG_2363.JPG + IMG_2363.MOV
+2026-01-17 00:15:42,863 - INFO - Using file timestamp for IMG_3806.AAE
+2026-01-17 00:15:42,864 - INFO - Processed: IMG_3806.AAE
+2026-01-17 00:15:42,864 - INFO - Using file timestamp for IMG_4199.AAE
+2026-01-17 00:15:42,865 - INFO - Processed: IMG_4199.AAE
+2026-01-17 00:15:44,303 - INFO - Processed Live Photo pair: IMG_3055.JPG + IMG_3055.MOV
+2026-01-17 00:15:44,305 - INFO - Using file timestamp for JPNME7308.JPG
+2026-01-17 00:15:44,307 - INFO - Processed: JPNME7308.JPG
+2026-01-17 00:15:44,309 - INFO - Processed: XYKB6354.JPG
+2026-01-17 00:15:44,310 - INFO - Using file timestamp for IMG_4191.DNG
+2026-01-17 00:15:44,310 - INFO - Processed: IMG_4191.DNG
+2026-01-17 00:15:44,310 - INFO - Using file timestamp for IMG_4185.DNG
+2026-01-17 00:15:44,311 - INFO - Processed: IMG_4185.DNG
+2026-01-17 00:15:44,311 - INFO - Using file timestamp for IMG_3635.AAE
+2026-01-17 00:15:44,312 - INFO - Processed: IMG_3635.AAE
+2026-01-17 00:15:46,418 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=32.04523888888889&lon=119.38685555555556&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:15:47,436 - INFO - Processed Live Photo pair: IMG_3928.JPG + IMG_3928.MOV
+2026-01-17 00:15:48,853 - INFO - Processed: IMG_3096.JPG
+2026-01-17 00:15:48,855 - INFO - Processed Live Photo pair: IMG_2175.JPG + IMG_2175.MOV
+2026-01-17 00:15:48,856 - INFO - Using file timestamp for IMG_3359.DNG
+2026-01-17 00:15:48,856 - INFO - Processed: IMG_3359.DNG
+2026-01-17 00:15:48,857 - INFO - Processed: IMG_4262.JPG
+2026-01-17 00:15:50,923 - INFO - Processed Live Photo pair: IMG_3519.JPG + IMG_3519.MOV
+2026-01-17 00:15:50,926 - INFO - Processed: IMG_4276.JPG
+2026-01-17 00:15:50,929 - INFO - Processed Live Photo pair: IMG_2161.JPG + IMG_2161.MOV
+2026-01-17 00:15:52,366 - INFO - Processed Live Photo pair: IMG_2149.JPG + IMG_2149.MOV
+2026-01-17 00:15:52,366 - INFO - Using file timestamp for IMG_3365.DNG
+2026-01-17 00:15:52,368 - INFO - Processed: IMG_3365.DNG
+2026-01-17 00:15:52,372 - INFO - Processed Live Photo pair: IMG_3531.JPG + IMG_3531.MOV
+2026-01-17 00:15:52,372 - INFO - Using file timestamp for IMG_O3839.AAE
+2026-01-17 00:15:52,374 - INFO - Processed: IMG_O3839.AAE
+2026-01-17 00:15:52,377 - INFO - Processed Live Photo pair: IMG_3525.JPG + IMG_3525.MOV
+2026-01-17 00:15:54,476 - INFO - Processed Live Photo pair: IMG_E2840.JPG + IMG_E2840.MOV
+2026-01-17 00:15:54,481 - INFO - Processed Live Photo pair: IMG_3243.JPG + IMG_3243.MOV
+2026-01-17 00:15:54,481 - INFO - Using file timestamp for IMG_2084.DNG
+2026-01-17 00:15:54,483 - INFO - Processed: IMG_2084.DNG
+2026-01-17 00:15:54,485 - INFO - Processed: IMG_E4202.JPG
+2026-01-17 00:15:54,486 - INFO - Using file timestamp for IMG_2090.DNG
+2026-01-17 00:15:54,487 - INFO - Processed: IMG_2090.DNG
+2026-01-17 00:15:54,487 - INFO - Using file timestamp for IMG_O3622.AAE
+2026-01-17 00:15:54,488 - INFO - Processed: IMG_O3622.AAE
+2026-01-17 00:15:54,488 - INFO - Using file timestamp for IMG_2729.AAE
+2026-01-17 00:15:54,490 - INFO - Processed: IMG_2729.AAE
+2026-01-17 00:15:54,492 - INFO - Processed: IMG_E3551.JPG
+2026-01-17 00:15:54,494 - INFO - Processed: IMG_E3545.JPG
+2026-01-17 00:15:54,496 - INFO - Processed: IMG_2820.JPG
+2026-01-17 00:15:54,496 - INFO - Using file timestamp for IMG_O2528.AAE
+2026-01-17 00:15:54,497 - INFO - Processed: IMG_O2528.AAE
+2026-01-17 00:15:54,497 - INFO - Using file timestamp for IMG_3345.AAE
+2026-01-17 00:15:54,498 - INFO - Processed: IMG_3345.AAE
+2026-01-17 00:15:54,498 - INFO - Using file timestamp for IMG_O2215.AAE
+2026-01-17 00:15:54,499 - INFO - Processed: IMG_O2215.AAE
+2026-01-17 00:15:54,499 - INFO - Using file timestamp for IMG_O2201.AAE
+2026-01-17 00:15:54,500 - INFO - Processed: IMG_O2201.AAE
+2026-01-17 00:15:54,500 - INFO - Using file timestamp for IMG_2785.DNG
+2026-01-17 00:15:54,501 - INFO - Processed: IMG_2785.DNG
+2026-01-17 00:15:54,503 - INFO - Processed: IMG_E4265.JPG
+2026-01-17 00:15:54,503 - INFO - Using file timestamp for IMG_2772.AAE
+2026-01-17 00:15:54,503 - INFO - Processed: IMG_2772.AAE
+2026-01-17 00:15:54,503 - INFO - Using file timestamp for IMG_3322.AAE
+2026-01-17 00:15:54,504 - INFO - Processed: IMG_3322.AAE
+2026-01-17 00:15:54,506 - INFO - Processed: IMG_E3244.JPG
+2026-01-17 00:15:54,506 - INFO - Using file timestamp for IMG_3336.AAE
+2026-01-17 00:15:54,507 - INFO - Processed: IMG_3336.AAE
+2026-01-17 00:15:54,508 - INFO - Processed: IMG_E3536.JPG
+2026-01-17 00:15:54,508 - INFO - Using file timestamp for IMG_3450.AAE
+2026-01-17 00:15:54,509 - INFO - Processed: IMG_3450.AAE
+2026-01-17 00:15:54,510 - INFO - Processed: IMG_E4259.JPG
+2026-01-17 00:15:55,924 - INFO - Processed: IMG_4211.JPG
+2026-01-17 00:15:55,927 - INFO - Processed Live Photo pair: IMG_4205.JPG + IMG_4205.MOV
+2026-01-17 00:15:55,929 - INFO - Processed Live Photo pair: IMG_3542.JPG + IMG_3542.MOV
+2026-01-17 00:15:57,996 - INFO - Processed Live Photo pair: IMG_2884.JPG + IMG_2884.MOV
+2026-01-17 00:15:57,997 - INFO - Processed: IMG_E2199.JPG
+2026-01-17 00:15:59,732 - INFO - Processed Live Photo pair: IMG_E3293.JPG + IMG_E3293.MOV
+2026-01-17 00:16:01,845 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=32.06447222222222&lon=118.76054444444445&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:16:02,787 - INFO - Processed Live Photo pair: IMG_4239.JPG + IMG_4239.MOV
+2026-01-17 00:16:02,787 - INFO - Using file timestamp for IMG_2202.AAE
+2026-01-17 00:16:02,788 - INFO - Processed: IMG_2202.AAE
+2026-01-17 00:16:02,788 - INFO - Using file timestamp for IMG_O2771.AAE
+2026-01-17 00:16:02,789 - INFO - Processed: IMG_O2771.AAE
+2026-01-17 00:16:04,215 - INFO - Processed Live Photo pair: IMG_3797.JPG + IMG_3797.MOV
+2026-01-17 00:16:04,215 - INFO - Using file timestamp for IMG_3896.DNG
+2026-01-17 00:16:04,217 - INFO - Processed: IMG_3896.DNG
+2026-01-17 00:16:06,260 - INFO - Processed Live Photo pair: IMG_2304.JPG + IMG_2304.MOV
+2026-01-17 00:16:06,260 - INFO - Using file timestamp for IMG_4121.DNG
+2026-01-17 00:16:06,262 - INFO - Processed: IMG_4121.DNG
+2026-01-17 00:16:07,996 - INFO - Processed Live Photo pair: IMG_2462.JPG + IMG_2462.MOV
+2026-01-17 00:16:10,146 - INFO - Processed Live Photo pair: IMG_2310.JPG + IMG_2310.MOV
+2026-01-17 00:16:10,146 - INFO - Using file timestamp for IMG_4135.DNG
+2026-01-17 00:16:10,148 - INFO - Processed: IMG_4135.DNG
+2026-01-17 00:16:11,574 - INFO - Processed Live Photo pair: IMG_3754.JPG + IMG_3754.MOV
+2026-01-17 00:16:11,574 - INFO - Using file timestamp for IMG_3100.DNG
+2026-01-17 00:16:11,576 - INFO - Processed: IMG_3100.DNG
+2026-01-17 00:16:11,579 - INFO - Processed: IMG_E2210.JPG
+2026-01-17 00:16:11,583 - INFO - Processed: IMG_E3668.JPG
+2026-01-17 00:16:11,584 - INFO - Using file timestamp for IMG_O4260.AAE
+2026-01-17 00:16:11,585 - INFO - Processed: IMG_O4260.AAE
+2026-01-17 00:16:11,587 - INFO - Processed: IMG_E4113.JPG
+2026-01-17 00:16:11,589 - INFO - Processed Live Photo pair: IMG_3807.JPG + IMG_3807.MOV
+2026-01-17 00:16:11,589 - INFO - Using file timestamp for IMG_2395.DNG
+2026-01-17 00:16:11,590 - INFO - Processed: IMG_2395.DNG
+2026-01-17 00:16:11,590 - INFO - Using file timestamp for IMG_2362.AAE
+2026-01-17 00:16:11,591 - INFO - Processed: IMG_2362.AAE
+2026-01-17 00:16:11,593 - INFO - Processed: IMG_E2204.JPG
+2026-01-17 00:16:11,593 - INFO - Using file timestamp for IMG_3935.DNG
+2026-01-17 00:16:11,594 - INFO - Processed: IMG_3935.DNG
+2026-01-17 00:16:11,594 - INFO - Using file timestamp for IMG_3054.AAE
+2026-01-17 00:16:11,595 - INFO - Processed: IMG_3054.AAE
+2026-01-17 00:16:11,597 - INFO - Processed: IMG_4198.JPG
+2026-01-17 00:16:11,597 - INFO - Using file timestamp for IMG_O3533.AAE
+2026-01-17 00:16:11,597 - INFO - Processed: IMG_O3533.AAE
+2026-01-17 00:16:11,598 - INFO - Using file timestamp for IMG_4359.PNG
+2026-01-17 00:16:11,599 - INFO - Processed: IMG_4359.PNG
+2026-01-17 00:16:11,599 - INFO - Using file timestamp for IMG_3909.DNG
+2026-01-17 00:16:11,600 - INFO - Processed: IMG_3909.DNG
+2026-01-17 00:16:13,709 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=32.102691666666665&lon=120.82246388888889&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:16:14,713 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=32.102691666666665&lon=120.82246388888889&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:16:15,715 - WARNING - Geocoding error: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /reverse?lat=32.102691666666665&lon=120.82246388888889&format=json&accept-language=zh-cn&addressdetails=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)"))
+2026-01-17 00:16:15,717 - INFO - Processed Live Photo pair: IMG_2270.JPG + IMG_2270.MOV
+2026-01-17 00:16:17,999 - INFO - Processed Live Photo pair: IMG_2502.JPG + IMG_2502.MOV
+2026-01-17 00:16:19,415 - INFO - Processed Live Photo pair: IMG_4173.JPG + IMG_4173.MOV
+2026-01-17 00:16:22,112 - INFO - Processed Live Photo pair: IMG_2264.JPG + IMG_2264.MOV
+2026-01-17 00:16:23,666 - INFO - Processed Live Photo pair: IMG_3152.JPG + IMG_3152.MOV
+2026-01-17 00:16:23,666 - INFO - Using file timestamp for IMG_3097.AAE
+2026-01-17 00:16:23,667 - INFO - Processed: IMG_3097.AAE
+2026-01-17 00:16:23,667 - INFO - Using file timestamp for IMG_2418.DNG
+2026-01-17 00:16:23,668 - INFO - Processed: IMG_2418.DNG
+2026-01-17 00:16:23,671 - INFO - Processed: IMG_3634.JPG
+2026-01-17 00:16:23,672 - INFO - Processed: IMG_3620.JPG
+2026-01-17 00:16:23,675 - INFO - Processed Live Photo pair: IMG_2258.JPG + IMG_2258.MOV
+2026-01-17 00:16:23,675 - INFO - Using file timestamp for IMG_4263.AAE
+2026-01-17 00:16:23,676 - INFO - Processed: IMG_4263.AAE
+2026-01-17 00:16:23,676 - INFO - Using file timestamp for IMG_4294.DNG
+2026-01-17 00:16:23,679 - INFO - Processed: IMG_4294.DNG
+2026-01-17 00:16:23,680 - INFO - Processed: IMG_E3318.JPG
+2026-01-17 00:16:23,680 - INFO - Using file timestamp for IMG_4280.DNG
+2026-01-17 00:16:23,681 - INFO - Processed: IMG_4280.DNG
+2026-01-17 00:16:23,681 - INFO - Using file timestamp for IMG_3289.DNG
+2026-01-17 00:16:23,682 - INFO - Processed: IMG_3289.DNG
+2026-01-17 00:16:26,400 - INFO - Processed Live Photo pair: IMG_2933.JPG + IMG_2933.MOV
+2026-01-17 00:16:26,403 - INFO - Processed: IMG_E3324.JPG
+2026-01-17 00:16:27,871 - INFO - Processed Live Photo pair: IMG_2927.JPG + IMG_2927.MOV
+2026-01-17 00:16:27,872 - INFO - Using file timestamp for IMG_2140.DNG
+2026-01-17 00:16:27,873 - INFO - Processed: IMG_2140.DNG
+2026-01-17 00:16:27,873 - INFO - Using file timestamp for IMG_O4089.AAE
+2026-01-17 00:16:27,875 - INFO - Processed: IMG_O4089.AAE
+2026-01-17 00:16:29,923 - INFO - Processed Live Photo pair: IMG_3436.JPG + IMG_3436.MOV
+2026-01-17 00:16:31,337 - INFO - Processed Live Photo pair: IMG_2728.JPG + IMG_2728.MOV
+2026-01-17 00:16:31,338 - INFO - Processed: IMG_3344.JPG
+2026-01-17 00:16:33,342 - INFO - Processed Live Photo pair: IMG_3422.JPG + IMG_3422.MOV
+2026-01-17 00:16:33,346 - INFO - Processed: IMG_3345.JPG
+2026-01-17 00:16:34,764 - INFO - Processed Live Photo pair: IMG_3423.JPG + IMG_3423.MOV
+2026-01-17 00:16:34,767 - INFO - Processed: IMG_E2946.JPG
+2026-01-17 00:16:34,771 - INFO - Processed Live Photo pair: IMG_2729.JPG + IMG_2729.MOV
+2026-01-17 00:16:36,953 - INFO - Processed Live Photo pair: IMG_3437.JPG + IMG_3437.MOV
+2026-01-17 00:16:38,410 - INFO - Processed Live Photo pair: IMG_2715.JPG + IMG_2715.MOV
+2026-01-17 00:16:40,465 - INFO - Processed Live Photo pair: IMG_2098.JPG + IMG_2098.MOV
+2026-01-17 00:16:40,469 - INFO - Processed Live Photo pair: IMG_E3443.JPG + IMG_E3443.MOV
+2026-01-17 00:16:40,472 - INFO - Processed Live Photo pair: IMG_2932.JPG + IMG_2932.MOV
+2026-01-17 00:16:40,472 - INFO - Using file timestamp for IMG_4281.DNG
+2026-01-17 00:16:40,473 - INFO - Processed: IMG_4281.DNG
+2026-01-17 00:16:40,473 - INFO - Using file timestamp for IMG_4262.AAE
+2026-01-17 00:16:40,474 - INFO - Processed: IMG_4262.AAE
+2026-01-17 00:16:40,474 - INFO - Using file timestamp for IMG_4295.DNG
+2026-01-17 00:16:40,475 - INFO - Processed: IMG_4295.DNG
+2026-01-17 00:16:40,475 - INFO - Using file timestamp for IMG_3075.DNG
+2026-01-17 00:16:40,476 - INFO - Processed: IMG_3075.DNG
+2026-01-17 00:16:40,479 - INFO - Processed Live Photo pair: IMG_E3682.JPG + IMG_E3682.MOV
+2026-01-17 00:16:40,481 - INFO - Processed Live Photo pair: IMG_2259.JPG + IMG_2259.MOV
+2026-01-17 00:16:40,481 - INFO - Using file timestamp for IMG_2419.DNG
+2026-01-17 00:16:40,482 - INFO - Processed: IMG_2419.DNG
+2026-01-17 00:16:40,482 - INFO - Using file timestamp for IMG_3096.AAE
+2026-01-17 00:16:40,483 - INFO - Processed: IMG_3096.AAE
+2026-01-17 00:16:40,485 - INFO - Processed Live Photo pair: IMG_3153.JPG + IMG_3153.MOV
+2026-01-17 00:16:40,486 - INFO - Processed: IMG_3635.JPG
+2026-01-17 00:16:41,933 - INFO - Processed Live Photo pair: IMG_4172.JPG + IMG_4172.MOV
+2026-01-17 00:16:44,041 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.34334722222222&lon=121.88112777777778&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:16:45,043 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.34334722222222&lon=121.88112777777778&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:16:45,942 - INFO - Processed Live Photo pair: IMG_2503.JPG + IMG_2503.MOV
+2026-01-17 00:16:45,942 - INFO - Using file timestamp for IMG_2357.DNG
+2026-01-17 00:16:45,943 - INFO - Processed: IMG_2357.DNG
+2026-01-17 00:16:45,946 - INFO - Processed Live Photo pair: IMG_2265.JPG + IMG_2265.MOV
+2026-01-17 00:16:45,948 - INFO - Processed Live Photo pair: IMG_2271.JPG + IMG_2271.MOV
+2026-01-17 00:16:45,948 - INFO - Using file timestamp for IMG_4054.DNG
+2026-01-17 00:16:45,949 - INFO - Processed: IMG_4054.DNG
+2026-01-17 00:16:45,949 - INFO - Using file timestamp for IMG_O3532.AAE
+2026-01-17 00:16:45,950 - INFO - Processed: IMG_O3532.AAE
+2026-01-17 00:16:45,950 - INFO - Using file timestamp for IMG_3908.DNG
+2026-01-17 00:16:45,951 - INFO - Processed: IMG_3908.DNG
+2026-01-17 00:16:45,951 - INFO - Using file timestamp for IMG_3055.AAE
+2026-01-17 00:16:45,952 - INFO - Processed: IMG_3055.AAE
+2026-01-17 00:16:45,955 - INFO - Processed: IMG_4199.JPG
+2026-01-17 00:16:45,955 - INFO - Using file timestamp for IMG_2394.DNG
+2026-01-17 00:16:45,956 - INFO - Processed: IMG_2394.DNG
+2026-01-17 00:16:45,958 - INFO - Processed: IMG_3806.JPG
+2026-01-17 00:16:45,959 - INFO - Processed: IMG_E4112.JPG
+2026-01-17 00:16:45,959 - INFO - Using file timestamp for IMG_O4261.AAE
+2026-01-17 00:16:45,960 - INFO - Processed: IMG_O4261.AAE
+2026-01-17 00:16:45,961 - INFO - Processed: IMG_E2205.JPG
+2026-01-17 00:16:45,963 - INFO - Processed: IMG_E2211.JPG
+2026-01-17 00:16:47,364 - INFO - Processed Live Photo pair: IMG_3812.JPG + IMG_3812.MOV
+2026-01-17 00:16:47,366 - INFO - Processed: IMG_E3669.JPG
+2026-01-17 00:16:47,366 - INFO - Using file timestamp for IMG_3848.AAE
+2026-01-17 00:16:47,367 - INFO - Processed: IMG_3848.AAE
+2026-01-17 00:16:47,367 - INFO - Using file timestamp for IMG_3101.DNG
+2026-01-17 00:16:47,368 - INFO - Processed: IMG_3101.DNG
+2026-01-17 00:16:49,727 - INFO - Processed Live Photo pair: IMG_3027.JPG + IMG_3027.MOV
+2026-01-17 00:16:49,730 - INFO - Processed Live Photo pair: IMG_2339.JPG + IMG_2339.MOV
+2026-01-17 00:16:49,730 - INFO - Using file timestamp for IMG_4134.DNG
+2026-01-17 00:16:49,730 - INFO - Processed: IMG_4134.DNG
+2026-01-17 00:16:49,731 - INFO - Using file timestamp for IMG_4120.DNG
+2026-01-17 00:16:49,731 - INFO - Processed: IMG_4120.DNG
+2026-01-17 00:16:51,162 - INFO - Processed Live Photo pair: IMG_2305.JPG + IMG_2305.MOV
+2026-01-17 00:16:51,163 - INFO - Using file timestamp for IMG_3897.DNG
+2026-01-17 00:16:51,165 - INFO - Processed: IMG_3897.DNG
+2026-01-17 00:16:51,166 - INFO - Using file timestamp for IMG_2885.PNG
+2026-01-17 00:16:51,167 - INFO - Processed: IMG_2885.PNG
+2026-01-17 00:16:53,276 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.97196111111111&lon=120.93975833333333&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:16:54,279 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.97196111111111&lon=120.93975833333333&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:16:55,257 - INFO - Processed Live Photo pair: IMG_3796.JPG + IMG_3796.MOV
+2026-01-17 00:16:55,258 - INFO - Using file timestamp for IMG_4100.AAE
+2026-01-17 00:16:55,259 - INFO - Processed: IMG_4100.AAE
+2026-01-17 00:16:55,262 - INFO - Processed: IMG_E2371.JPG
+2026-01-17 00:16:55,263 - INFO - Using file timestamp for GWEQE7440.JPG
+2026-01-17 00:16:55,264 - INFO - Processed: GWEQE7440.JPG
+2026-01-17 00:16:55,265 - INFO - Using file timestamp for IMG_2203.AAE
+2026-01-17 00:16:55,265 - INFO - Processed: IMG_2203.AAE
+2026-01-17 00:16:55,267 - INFO - Processed: VUCY7456.JPG
+2026-01-17 00:16:55,267 - INFO - Using file timestamp for IMG_O2770.AAE
+2026-01-17 00:16:55,269 - INFO - Processed: IMG_O2770.AAE
+2026-01-17 00:16:55,271 - INFO - Processed Live Photo pair: IMG_4238.JPG + IMG_4238.MOV
+2026-01-17 00:16:55,273 - INFO - Processed: IMG_3543.JPG
+2026-01-17 00:16:55,278 - INFO - Processed: IMG_2151.MOV
+2026-01-17 00:16:55,279 - INFO - Processed: IMG_E2198.JPG
+2026-01-17 00:16:56,971 - INFO - Processed Live Photo pair: IMG_4204.JPG + IMG_4204.MOV
+2026-01-17 00:16:56,973 - INFO - Processed: IMG_4210.JPG
+2026-01-17 00:16:59,078 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=23.124294444444445&lon=113.26377777777778&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:17:00,062 - INFO - Processed: IMG_E3251.JPG
+2026-01-17 00:17:00,062 - INFO - Using file timestamp for IMG_3337.AAE
+2026-01-17 00:17:00,063 - INFO - Processed: IMG_3337.AAE
+2026-01-17 00:17:00,066 - INFO - Processed: IMG_E4258.JPG
+2026-01-17 00:17:00,067 - INFO - Processed: IMG_E3537.JPG
+2026-01-17 00:17:00,068 - INFO - Using file timestamp for IMG_3755.PNG
+2026-01-17 00:17:00,068 - INFO - Processed: IMG_3755.PNG
+2026-01-17 00:17:00,070 - INFO - Processed: IMG_E3523.JPG
+2026-01-17 00:17:00,070 - INFO - Using file timestamp for IMG_3323.AAE
+2026-01-17 00:17:00,071 - INFO - Processed: IMG_3323.AAE
+2026-01-17 00:17:00,071 - INFO - Using file timestamp for IMG_2784.DNG
+2026-01-17 00:17:00,072 - INFO - Processed: IMG_2784.DNG
+2026-01-17 00:17:00,072 - INFO - Using file timestamp for IMG_O2200.AAE
+2026-01-17 00:17:00,073 - INFO - Processed: IMG_O2200.AAE
+2026-01-17 00:17:00,073 - INFO - Using file timestamp for IMG_O3678.AAE
+2026-01-17 00:17:00,074 - INFO - Processed: IMG_O3678.AAE
+2026-01-17 00:17:00,076 - INFO - Processed: IMG_E4264.JPG
+2026-01-17 00:17:00,076 - INFO - Using file timestamp for IMG_2311.PNG
+2026-01-17 00:17:00,077 - INFO - Processed: IMG_2311.PNG
+2026-01-17 00:17:00,077 - INFO - Using file timestamp for IMG_O2214.AAE
+2026-01-17 00:17:00,078 - INFO - Processed: IMG_O2214.AAE
+2026-01-17 00:17:00,078 - INFO - Using file timestamp for IMG_2771.AAE
+2026-01-17 00:17:00,078 - INFO - Processed: IMG_2771.AAE
+2026-01-17 00:17:00,079 - INFO - Using file timestamp for IMG_O2202.AAE
+2026-01-17 00:17:00,079 - INFO - Processed: IMG_O2202.AAE
+2026-01-17 00:17:01,517 - INFO - Processed Live Photo pair: IMG_2878.JPG + IMG_2878.MOV
+2026-01-17 00:17:01,522 - INFO - Processed: IMG_2850.JPG
+2026-01-17 00:17:01,522 - INFO - Using file timestamp for IMG_2962.DNG
+2026-01-17 00:17:01,524 - INFO - Processed: IMG_2962.DNG
+2026-01-17 00:17:01,527 - INFO - Processed: IMG_3569.JPG
+2026-01-17 00:17:03,646 - INFO - Processed Live Photo pair: IMG_4212.JPG + IMG_4212.MOV
+2026-01-17 00:17:03,649 - INFO - Processed: VRJR0962.JPG
+2026-01-17 00:17:03,652 - INFO - Processed Live Photo pair: IMG_3541.JPG + IMG_3541.MOV
+2026-01-17 00:17:03,652 - INFO - Using file timestamp for IMG_3315.DNG
+2026-01-17 00:17:03,653 - INFO - Processed: IMG_3315.DNG
+2026-01-17 00:17:03,654 - INFO - Using file timestamp for IMG_2215.AAE
+2026-01-17 00:17:03,654 - INFO - Processed: IMG_2215.AAE
+2026-01-17 00:17:03,655 - INFO - Using file timestamp for IMG_O2772.AAE
+2026-01-17 00:17:03,656 - INFO - Processed: IMG_O2772.AAE
+2026-01-17 00:17:03,658 - INFO - Processed Live Photo pair: IMG_E3079.JPG + IMG_E3079.MOV
+2026-01-17 00:17:03,659 - INFO - Using file timestamp for IMG_2201.AAE
+2026-01-17 00:17:03,659 - INFO - Processed: IMG_2201.AAE
+2026-01-17 00:17:03,660 - INFO - Using file timestamp for IMG_O3322.AAE
+2026-01-17 00:17:03,661 - INFO - Processed: IMG_O3322.AAE
+2026-01-17 00:17:05,078 - INFO - Processed Live Photo pair: IMG_3794.JPG + IMG_3794.MOV
+2026-01-17 00:17:07,115 - INFO - Processed Live Photo pair: IMG_3958.JPG + IMG_3958.MOV
+2026-01-17 00:17:07,115 - INFO - Using file timestamp for IMG_O3336.AAE
+2026-01-17 00:17:07,116 - INFO - Processed: IMG_O3336.AAE
+2026-01-17 00:17:09,087 - INFO - Processed: IMG_2313.JPG
+2026-01-17 00:17:09,088 - INFO - Using file timestamp for IMG_4136.DNG
+2026-01-17 00:17:09,088 - INFO - Processed: IMG_4136.DNG
+2026-01-17 00:17:11,201 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.30663888888889&lon=121.83609722222222&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:17:12,112 - INFO - Processed Live Photo pair: IMG_2475.JPG + IMG_2475.MOV
+2026-01-17 00:17:12,113 - INFO - Processed: CZER5369.JPG
+2026-01-17 00:17:12,114 - INFO - Processed: IMG_4010.JPG
+2026-01-17 00:17:12,115 - INFO - Processed Live Photo pair: IMG_2461.JPG + IMG_2461.MOV
+2026-01-17 00:17:12,115 - INFO - Using file timestamp for IMG_3895.DNG
+2026-01-17 00:17:12,116 - INFO - Processed: IMG_3895.DNG
+2026-01-17 00:17:13,554 - INFO - Processed Live Photo pair: IMG_2307.JPG + IMG_2307.MOV
+2026-01-17 00:17:13,554 - INFO - Using file timestamp for IMG_4122.DNG
+2026-01-17 00:17:13,557 - INFO - Processed: IMG_4122.DNG
+2026-01-17 00:17:13,557 - INFO - Using file timestamp for IMG_3103.DNG
+2026-01-17 00:17:13,557 - INFO - Processed: IMG_3103.DNG
+2026-01-17 00:17:16,002 - INFO - Processed Live Photo pair: IMG_3743.JPG + IMG_3743.MOV
+2026-01-17 00:17:16,005 - INFO - Processed: IMG_E3086.JPG
+2026-01-17 00:17:16,007 - INFO - Processed: IMG_E2207.JPG
+2026-01-17 00:17:16,008 - INFO - Using file timestamp for IMG_3936.DNG
+2026-01-17 00:17:16,009 - INFO - Processed: IMG_3936.DNG
+2026-01-17 00:17:16,009 - INFO - Using file timestamp for IMG_O4263.AAE
+2026-01-17 00:17:16,010 - INFO - Processed: IMG_O4263.AAE
+2026-01-17 00:17:17,459 - INFO - Processed Live Photo pair: IMG_3804.JPG + IMG_3804.MOV
+2026-01-17 00:17:17,463 - INFO - Processed Live Photo pair: IMG_3810.JPG + IMG_3810.MOV
+2026-01-17 00:17:17,465 - INFO - Processed: IMG_E2213.JPG
+2026-01-17 00:17:17,468 - INFO - Processed: IMG_3838.JPG
+2026-01-17 00:17:19,809 - INFO - Processed Live Photo pair: IMG_3179.JPG + IMG_3179.MOV
+2026-01-17 00:17:19,812 - INFO - Processed Live Photo pair: IMG_2267.JPG + IMG_2267.MOV
+2026-01-17 00:17:19,814 - INFO - Processed Live Photo pair: IMG_4170.JPG + IMG_4170.MOV
+2026-01-17 00:17:19,815 - INFO - Processed Live Photo pair: IMG_2273.JPG + IMG_2273.MOV
+2026-01-17 00:17:19,817 - INFO - Processed: IMG_E3858.JPG
+2026-01-17 00:17:19,817 - INFO - Using file timestamp for IMG_4089.AAE
+2026-01-17 00:17:19,818 - INFO - Processed: IMG_4089.AAE
+2026-01-17 00:17:21,235 - INFO - Processed Live Photo pair: IMG_3637.JPG + IMG_3637.MOV
+2026-01-17 00:17:21,238 - INFO - Processed Live Photo pair: IMG_4158.JPG + IMG_4158.MOV
+2026-01-17 00:17:21,240 - INFO - Processed Live Photo pair: IMG_3151.JPG + IMG_3151.MOV
+2026-01-17 00:17:21,240 - INFO - Using file timestamp for IMG_2194.DNG
+2026-01-17 00:17:21,241 - INFO - Processed: IMG_2194.DNG
+2026-01-17 00:17:21,244 - INFO - Processed Live Photo pair: IMG_2918.JPG + IMG_2918.MOV
+2026-01-17 00:17:21,246 - INFO - Processed: IMG_E2777.JPG
+2026-01-17 00:17:21,246 - INFO - Using file timestamp for IMG_4260.AAE
+2026-01-17 00:17:21,247 - INFO - Processed: IMG_4260.AAE
+2026-01-17 00:17:21,247 - INFO - Using file timestamp for IMG_2639.AAE
+2026-01-17 00:17:21,248 - INFO - Processed: IMG_2639.AAE
+2026-01-17 00:17:23,355 - INFO - Processed Live Photo pair: IMG_2924.JPG + IMG_2924.MOV
+2026-01-17 00:17:23,359 - INFO - Processed Live Photo pair: IMG_E3441.JPG + IMG_E3441.MOV
+2026-01-17 00:17:23,361 - INFO - Processed: IMG_E3327.JPG
+2026-01-17 00:17:23,362 - INFO - Processed Live Photo pair: IMG_2930.JPG + IMG_2930.MOV
+2026-01-17 00:17:23,362 - INFO - Using file timestamp for IMG_3533.AAE
+2026-01-17 00:17:23,362 - INFO - Processed: IMG_3533.AAE
+2026-01-17 00:17:24,781 - INFO - Processed Live Photo pair: IMG_3409.JPG + IMG_3409.MOV
+2026-01-17 00:17:27,255 - INFO - Processed Live Photo pair: IMG_2717.JPG + IMG_2717.MOV
+2026-01-17 00:17:28,690 - INFO - Processed Live Photo pair: IMG_3421.JPG + IMG_3421.MOV
+2026-01-17 00:17:28,690 - INFO - Using file timestamp for IMG_O3097.AAE
+2026-01-17 00:17:28,691 - INFO - Processed: IMG_O3097.AAE
+2026-01-17 00:17:30,805 - INFO - Processed Live Photo pair: IMG_3347.JPG + IMG_3347.MOV
+2026-01-17 00:17:30,805 - INFO - Using file timestamp for IMG_2619.DNG
+2026-01-17 00:17:30,806 - INFO - Processed: IMG_2619.DNG
+2026-01-17 00:17:32,211 - INFO - Processed Live Photo pair: IMG_3353.JPG + IMG_3353.MOV
+2026-01-17 00:17:32,211 - INFO - Using file timestamp for IMG_4268.DNG
+2026-01-17 00:17:32,213 - INFO - Processed: IMG_4268.DNG
+2026-01-17 00:17:32,216 - INFO - Processed Live Photo pair: IMG_3435.JPG + IMG_3435.MOV
+2026-01-17 00:17:32,216 - INFO - Using file timestamp for IMG_2618.DNG
+2026-01-17 00:17:32,217 - INFO - Processed: IMG_2618.DNG
+2026-01-17 00:17:32,220 - INFO - Processed Live Photo pair: IMG_3434.JPG + IMG_3434.MOV
+2026-01-17 00:17:34,330 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.188741666666665&lon=121.60923055555556&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:17:35,566 - INFO - Processed Live Photo pair: IMG_3420.JPG + IMG_3420.MOV
+2026-01-17 00:17:35,569 - INFO - Processed: IMG_E2945.JPG
+2026-01-17 00:17:35,572 - INFO - Processed Live Photo pair: IMG_3346.JPG + IMG_3346.MOV
+2026-01-17 00:17:35,573 - INFO - Using file timestamp for IMG_O3096.AAE
+2026-01-17 00:17:35,573 - INFO - Processed: IMG_O3096.AAE
+2026-01-17 00:17:35,573 - INFO - Using file timestamp for IMG_2624.DNG
+2026-01-17 00:17:35,574 - INFO - Processed: IMG_2624.DNG
+2026-01-17 00:17:37,025 - INFO - Processed Live Photo pair: IMG_2716.JPG + IMG_2716.MOV
+2026-01-17 00:17:37,027 - INFO - Processed Live Photo pair: IMG_3408.JPG + IMG_3408.MOV
+2026-01-17 00:17:39,113 - INFO - Processed Live Photo pair: IMG_3391.JPG + IMG_3391.MOV
+2026-01-17 00:17:39,113 - INFO - Using file timestamp for IMG_3532.AAE
+2026-01-17 00:17:39,114 - INFO - Processed: IMG_3532.AAE
+2026-01-17 00:17:40,790 - INFO - Processed Live Photo pair: IMG_2931.JPG + IMG_2931.MOV
+2026-01-17 00:17:40,790 - INFO - Using file timestamp for IMG_3526.AAE
+2026-01-17 00:17:40,791 - INFO - Processed: IMG_3526.AAE
+2026-01-17 00:17:40,794 - INFO - Processed Live Photo pair: IMG_E2986.JPG + IMG_E2986.MOV
+2026-01-17 00:17:40,796 - INFO - Processed Live Photo pair: IMG_2925.JPG + IMG_2925.MOV
+2026-01-17 00:17:40,796 - INFO - Using file timestamp for IMG_4296.DNG
+2026-01-17 00:17:40,797 - INFO - Processed: IMG_4296.DNG
+2026-01-17 00:17:40,798 - INFO - Using file timestamp for IMG_4261.AAE
+2026-01-17 00:17:40,798 - INFO - Processed: IMG_4261.AAE
+2026-01-17 00:17:40,799 - INFO - Processed: IMG_E2776.JPG
+2026-01-17 00:17:40,801 - INFO - Processed Live Photo pair: IMG_2919.JPG + IMG_2919.MOV
+2026-01-17 00:17:40,801 - INFO - Using file timestamp for IMG_2195.DNG
+2026-01-17 00:17:40,801 - INFO - Processed: IMG_2195.DNG
+2026-01-17 00:17:43,149 - INFO - Processed Live Photo pair: IMG_4159.JPG + IMG_4159.MOV
+2026-01-17 00:17:43,153 - INFO - Processed: IMG_2528.JPG
+2026-01-17 00:17:44,574 - INFO - Processed Live Photo pair: IMG_3150.JPG + IMG_3150.MOV
+2026-01-17 00:17:44,574 - INFO - Using file timestamp for IMG_3095.AAE
+2026-01-17 00:17:44,575 - INFO - Processed: IMG_3095.AAE
+2026-01-17 00:17:44,577 - INFO - Processed: IMG_3622.JPG
+2026-01-17 00:17:44,577 - INFO - Using file timestamp for IMG_3076.DNG
+2026-01-17 00:17:44,577 - INFO - Processed: IMG_3076.DNG
+2026-01-17 00:17:44,578 - INFO - Processed: IMG_E3859.JPG
+2026-01-17 00:17:44,580 - INFO - Processed Live Photo pair: IMG_2514.JPG + IMG_2514.MOV
+2026-01-17 00:17:44,582 - INFO - Processed Live Photo pair: IMG_2272.JPG + IMG_2272.MOV
+2026-01-17 00:17:44,583 - INFO - Processed Live Photo pair: IMG_2266.JPG + IMG_2266.MOV
+2026-01-17 00:17:46,685 - INFO - Processed Live Photo pair: IMG_4171.JPG + IMG_4171.MOV
+2026-01-17 00:17:46,687 - INFO - Processed: CDFF3945.JPG
+2026-01-17 00:17:46,688 - INFO - Processed: SJAE2318.JPG
+2026-01-17 00:17:46,688 - INFO - Using file timestamp for IMG_3056.AAE
+2026-01-17 00:17:46,688 - INFO - Processed: IMG_3056.AAE
+2026-01-17 00:17:48,368 - INFO - Processed Live Photo pair: IMG_2299.JPG + IMG_2299.MOV
+2026-01-17 00:17:48,371 - INFO - Processed: IMG_3839.JPG
+2026-01-17 00:17:48,372 - INFO - Processed: IMG_3811.JPG
+2026-01-17 00:17:48,373 - INFO - Processed: IMG_E4105.JPG
+2026-01-17 00:17:48,374 - INFO - Processed: IMG_E2212.JPG
+2026-01-17 00:17:48,375 - INFO - Processed: IMG_E2206.JPG
+2026-01-17 00:17:48,377 - INFO - Processed Live Photo pair: IMG_3805.JPG + IMG_3805.MOV
+2026-01-17 00:17:48,379 - INFO - Processed: IMG_E4111.JPG
+2026-01-17 00:17:48,379 - INFO - Using file timestamp for IMG_O4262.AAE
+2026-01-17 00:17:48,379 - INFO - Processed: IMG_O4262.AAE
+2026-01-17 00:17:48,382 - INFO - Processed Live Photo pair: IMG_E3939.JPG + IMG_E3939.MOV
+2026-01-17 00:17:50,552 - INFO - Processed Live Photo pair: IMG_3742.JPG + IMG_3742.MOV
+2026-01-17 00:17:51,987 - INFO - Processed Live Photo pair: IMG_3024.JPG + IMG_3024.MOV
+2026-01-17 00:17:51,988 - INFO - Using file timestamp for IMG_E2399.JPG
+2026-01-17 00:17:51,989 - INFO - Processed: IMG_E2399.JPG
+2026-01-17 00:17:51,989 - INFO - Using file timestamp for IMG_3102.DNG
+2026-01-17 00:17:51,990 - INFO - Processed: IMG_3102.DNG
+2026-01-17 00:17:54,207 - INFO - Processed Live Photo pair: IMG_4039.JPG + IMG_4039.MOV
+2026-01-17 00:17:55,657 - INFO - Processed Live Photo pair: IMG_2460.JPG + IMG_2460.MOV
+2026-01-17 00:17:55,666 - INFO - Processed: IMG_3072.MOV
+2026-01-17 00:17:55,666 - INFO - Using file timestamp for IMG_4123.DNG
+2026-01-17 00:17:55,667 - INFO - Processed: IMG_4123.DNG
+2026-01-17 00:17:55,670 - INFO - Processed Live Photo pair: IMG_2306.JPG + IMG_2306.MOV
+2026-01-17 00:17:55,670 - INFO - Using file timestamp for IMG_3894.DNG
+2026-01-17 00:17:55,671 - INFO - Processed: IMG_3894.DNG
+2026-01-17 00:17:55,671 - INFO - Using file timestamp for IMG_4137.DNG
+2026-01-17 00:17:55,672 - INFO - Processed: IMG_4137.DNG
+2026-01-17 00:17:55,672 - INFO - Using file timestamp for IMG_2546.DNG
+2026-01-17 00:17:55,673 - INFO - Processed: IMG_2546.DNG
+2026-01-17 00:17:55,674 - INFO - Using file timestamp for IMG_2312.JPG
+2026-01-17 00:17:55,674 - INFO - Processed: IMG_2312.JPG
+2026-01-17 00:17:55,676 - INFO - Processed: XEPS6615.JPG
+2026-01-17 00:17:55,676 - INFO - Using file timestamp for IMG_O3337.AAE
+2026-01-17 00:17:55,677 - INFO - Processed: IMG_O3337.AAE
+2026-01-17 00:17:55,682 - INFO - Processed: IMG_3933.MOV
+2026-01-17 00:17:55,682 - INFO - Using file timestamp for IMG_O3323.AAE
+2026-01-17 00:17:55,683 - INFO - Processed: IMG_O3323.AAE
+2026-01-17 00:40:43,669 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.31365277777778&lon=121.48386388888889&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:41:14,218 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.06276111111111&lon=121.19172777777779&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:41:18,787 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=32.06999166666667&lon=118.771675&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:41:19,790 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=32.06999166666667&lon=118.771675&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:41:36,090 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.04802777777778&lon=121.21258611111111&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:41:37,092 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.04802777777778&lon=121.21258611111111&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:42:36,808 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=32.05830833333333&lon=118.84758888888888&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:42:41,958 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.34681388888889&lon=121.87027777777777&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:44:15,709 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.20314722222222&lon=121.49390277777778&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:44:34,786 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=32.05702222222222&lon=118.8499611111111&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:44:35,789 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=32.05702222222222&lon=118.8499611111111&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:44:45,908 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=32.064227777777774&lon=118.76022222222223&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:44:56,697 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.22838611111111&lon=120.54377777777778&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:46:25,285 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=32.10256944444445&lon=120.82360833333333&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:46:37,207 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=32.04514722222222&lon=118.77975555555555&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:46:52,186 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.322552777777776&lon=121.54713611111112&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:47:07,832 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.062697222222223&lon=121.19318333333334&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:47:29,875 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.051266666666667&lon=121.21305277777778&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:47:56,526 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.204466666666665&lon=121.49655833333334&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:48:08,199 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=32.06888888888889&lon=118.79312777777777&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:49:05,849 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.319247222222224&lon=121.54861388888888&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:49:14,333 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.982525&lon=118.71388888888889&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:50:15,538 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.313380555555558&lon=121.48870833333334&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 00:59:17,562 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.319205555555556&lon=121.54806388888889&format=json&accept-language=zh-cn&addressdetails=1
+2026-01-17 01:00:33,468 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /reverse?lat=31.22838611111111&lon=120.54377777777778&format=json&accept-language=zh-cn&addressdetails=1
