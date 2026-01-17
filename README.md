@@ -1,7 +1,8 @@
 <div align="center">
   <a href="./README.md">
-    <h1>📸 Mac iPhone Photo Organizer</h1>
+    <h1>📸 iPhone Photo Organizer</h1>
   </a>
+
 
   <p align="center">
     <strong>A powerful toolkit to backup and organize iPhone photos on macOS and Windows.</strong>
