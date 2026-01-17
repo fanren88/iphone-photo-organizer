@@ -1,10 +1,10 @@
 <div align="center">
   <a href="./README.md">
-    <h1>📸 iPhone Photo Organizer</h1>
+    <h1>📸 Mobile Photo Organizer</h1>
   </a>
 
   <p align="center">
-    <strong>一款适用于 macOS 和 Windows 的 iPhone 照片备份与整理工具。</strong>
+    <strong>一款适用于 macOS 和 Windows 的手机照片整理工具 (支持 iPhone & Android)。</strong>
   </p>
 
   <p align="center">
@@ -23,8 +23,9 @@
 
 ## 📖 简介
 
-**iPhone Photo Organizer** 帮助您将 iPhone 照片和视频备份到 Mac / Windows 电脑（或外接硬盘），同时保留：
+**Mobile Photo Organizer** 帮助您将 iPhone / Android 照片和视频备份到 Mac / Windows 电脑（或外接硬盘），同时保留：
 - **实况照片 (Live Photos)**：保持 `.HEIC` 图片和 `.MOV` 视频成对存放。
+- **Android 支持**：兼容 Android 的 `.JPG` 和 `.MP4` 文件。
 - **元数据**：保留原始拍摄日期和时间。
 - **地理位置**：根据拍摄地点自动整理文件夹（例如：`2023/10/2023-10-01_Shanghai`）。
 
@@ -64,7 +65,7 @@
 
 3.  **使用 Web 应用**：
     - 应用将在浏览器中自动打开（通常为 `http://localhost:8501`）。
-    - 选择 **源文件夹**（iPhone 的原始备份）。
+    - 选择 **源文件夹**（iPhone 或 Android 的原始备份）。
     - 选择 **目标文件夹**（您希望存放整理后照片的位置）。
     - 点击 **开始整理**。
 

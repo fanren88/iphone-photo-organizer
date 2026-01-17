@@ -7,7 +7,7 @@ from translations import translations
 
 # --- Page Config ---
 st.set_page_config(
-    page_title="iPhone Photo Organizer",
+    page_title="Mobile Photo Organizer",
     page_icon="📸",
     layout="wide"
 )

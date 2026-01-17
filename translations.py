@@ -1,7 +1,7 @@
 
 translations = {
     "zh": {
-        "page_title": "iPhone 照片整理工具",
+        "page_title": "手机照片整理工具 (iPhone/Android)",
         "system_menu": "⚙️ 系统菜单",
         "exit_app": "❌ 关闭程序 (Exit App)",
         "app_closed": "程序已关闭，请关闭浏览器窗口。",
@@ -10,25 +10,28 @@ translations = {
     - 如需 **中途停止整理**，请直接点击浏览器地址栏旁边的 **“X” (停止)** 按钮，或直接 **刷新页面**。
     - 整理完成后，点击上方“关闭程序”可完全退出后台服务。
     """,
-        "main_header": "📸 iPhone 照片整理工具",
-        "sub_header": "自动备份整理您的照片，支持地理位置分类和实况照片（Live Photos）。",
+        "main_header": "📸 手机照片整理工具",
+        "sub_header": "自动备份整理您的手机照片 (iPhone & Android)，支持地理位置分类和实况照片。",
         "guide_expander": "ℹ️ 使用指南（必读：如何导出照片？）",
         "guide_content": """
-    由于苹果系统的限制，本软件无法直接读取手机内部相册。请按照以下步骤操作：
+    **📱 iPhone 用户：**
+    1.  **连接手机**：用数据线连接 iPhone 到电脑。
+    2.  **导出照片**：
+        *   **macOS**: 打开“图像捕捉” (Image Capture)，选择手机，下载照片到本地文件夹。
+        *   **Windows**: 打开“照片”应用或直接在资源管理器中访问 iPhone 设备，复制照片到本地文件夹。
     
-    1.  **连接手机**：用数据线将 iPhone 连接到这台 Mac。
-    2.  **导出照片**：打开 Mac 自带的 **“图像捕捉” (Image Capture)** 应用（按 Cmd+Space 搜索“图像捕捉”）。
-        *   在左侧选择你的 iPhone。
-        *   将照片 **“下载”** 到电脑上的一个临时文件夹（例如在桌面新建一个 `未整理照片` 文件夹）。
-    3.  **开始整理**：
-        *   在下方 **“源文件夹”** 中，选择刚才那个 `未整理照片` 文件夹。
-        *   在 **“目标文件夹”** 中，选择你的移动硬盘或最终保存位置。
+    **🤖 Android 用户：**
+    1.  **连接手机**：用数据线连接手机，在手机上选择“文件传输 / MTP”模式。
+    2.  **导出照片**：打开文件资源管理器，进入手机存储的 `DCIM/Camera` 文件夹，将照片复制到电脑上的文件夹。
+    
+    **🚀 开始整理：**
+    在下方选择刚才导出的文件夹作为 **“源文件夹”**，点击开始整理即可。
     """,
         "cant_open_picker": "无法打开文件夹选择器：{}",
         "tab_organize": "🚀 整理照片",
         "tab_restore": "↩️ 还原撤销",
         "select_source_title": "### 1. 选择源文件夹",
-        "select_source_info": "请选择包含原始 iPhone 照片（HEIC/MOV）的文件夹。",
+        "select_source_info": "请选择包含原始照片的文件夹 (支持 iPhone HEIC/MOV 及 Android JPG/MP4)。",
         "source_path_label": "源文件夹路径",
         "browse_source_btn": "浏览源文件夹",
         "select_dest_title": "### 2. 选择目标文件夹",
@@ -112,7 +115,7 @@ translations = {
         "unknown_location": "未知地点"
     },
     "en": {
-        "page_title": "iPhone Photo Organizer",
+        "page_title": "Mobile Photo Organizer (iPhone/Android)",
         "system_menu": "⚙️ System Menu",
         "exit_app": "❌ Exit App",
         "app_closed": "App closed. Please close the browser tab.",
@@ -121,25 +124,28 @@ translations = {
     - To **stop organizing**, click the **"X" (Stop)** button next to the browser address bar, or **refresh the page**.
     - After organizing, click "Exit App" above to completely stop the background service.
     """,
-        "main_header": "📸 iPhone Photo Organizer",
-        "sub_header": "Automatically backup and organize your photos, supporting location categorization and Live Photos.",
+        "main_header": "📸 Mobile Photo Organizer",
+        "sub_header": "Automatically backup and organize your mobile photos (iPhone & Android), supporting location categorization and Live Photos.",
         "guide_expander": "ℹ️ User Guide (Must Read: How to Export Photos?)",
         "guide_content": """
-    Due to Apple system restrictions, this software cannot directly read the internal album of the phone. Please follow these steps:
+    **📱 iPhone Users:**
+    1.  **Connect**: Connect iPhone via USB.
+    2.  **Export**:
+        *   **macOS**: Use "Image Capture" app to download photos.
+        *   **Windows**: Use "Photos" app or File Explorer to copy photos.
+        
+    **🤖 Android Users:**
+    1.  **Connect**: Connect phone via USB, select "File Transfer / MTP" mode on phone.
+    2.  **Export**: Open File Explorer, go to `DCIM/Camera`, and copy photos to a local folder.
     
-    1.  **Connect Phone**: Connect your iPhone to this Mac using a data cable.
-    2.  **Export Photos**: Open the **"Image Capture"** app on your Mac (press Cmd+Space to search for "Image Capture").
-        *   Select your iPhone on the left.
-        *   **"Download"** the photos to a temporary folder on your computer (e.g., create a `Unorganized Photos` folder on the desktop).
-    3.  **Start Organizing**:
-        *   Select that `Unorganized Photos` folder in the **"Source Folder"** below.
-        *   Select your external hard drive or final destination in the **"Destination Folder"**.
+    **🚀 Start:**
+    Select that folder below as **"Source Folder"**.
     """,
         "cant_open_picker": "Cannot open folder picker: {}",
         "tab_organize": "🚀 Organize",
         "tab_restore": "↩️ Restore/Undo",
         "select_source_title": "### 1. Select Source Folder",
-        "select_source_info": "Please select the folder containing original iPhone photos (HEIC/MOV).",
+        "select_source_info": "Please select the folder containing original photos (Supports iPhone HEIC/MOV & Android JPG/MP4).",
         "source_path_label": "Source Folder Path",
         "browse_source_btn": "Browse Source Folder",
         "select_dest_title": "### 2. Select Destination Folder",

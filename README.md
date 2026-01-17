@@ -1,11 +1,10 @@
 <div align="center">
   <a href="./README.md">
-    <h1>📸 iPhone Photo Organizer</h1>
+    <h1>📸 Mobile Photo Organizer</h1>
   </a>
 
-
   <p align="center">
-    <strong>A powerful toolkit to backup and organize iPhone photos on macOS and Windows.</strong>
+    <strong>A powerful toolkit to backup and organize mobile photos (iPhone & Android) on macOS and Windows.</strong>
   </p>
 
   <p align="center">
@@ -65,7 +64,7 @@
 
 3.  **Use the Web App**:
     - The app will open in your browser (usually `http://localhost:8501`).
-    - Select your **Source Folder** (raw backup from iPhone).
+    - **Source Folder**: Select the folder where you downloaded photos (iPhone or Android).
     - Select your **Destination Folder** (where you want organized photos).
     - Click **Start Organizing**.
 

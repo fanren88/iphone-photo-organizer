@@ -183,7 +183,7 @@ def process_single_item(item, source_dir, dest_dir, structure_type, rename_enabl
     # Metadata Extraction
     if ext in ['.heic', '.jpg', '.jpeg', '.png']:
         date_taken, lat, lon = get_image_metadata(src_path)
-    elif ext == '.mov':
+    elif ext in ['.mov', '.mp4']:
         date_taken = get_video_date(src_path)
     
     # Fallback date
@@ -321,10 +321,17 @@ def organize_files(source_dir, dest_dir, progress_callback=None, log_callback=No
         
         if ext in ['.heic', '.jpg', '.jpeg', '.png']:
             possible_video = base_name + ".MOV"
+            possible_video_mp4 = base_name + ".MP4"
+            
             if possible_video in files_set:
                 item['is_live_photo'] = True
                 item['pair_file'] = possible_video
                 processed_names.add(possible_video)
+            elif possible_video_mp4 in files_set:
+                # Some Android 'Motion Photos' or pairs might use MP4
+                item['is_live_photo'] = True
+                item['pair_file'] = possible_video_mp4
+                processed_names.add(possible_video_mp4)
             
             # Check for AAE Sidecar
             possible_aae = base_name + ".AAE"
@@ -332,12 +339,18 @@ def organize_files(source_dir, dest_dir, progress_callback=None, log_callback=No
                 item['aae_file'] = possible_aae
                 processed_names.add(possible_aae)
                 
-        elif ext == '.mov':
-            # Check if this MOV belongs to a HEIC/JPG that we will process (or have processed)
+        elif ext in ['.mov', '.mp4']:
+            # Check if this Video belongs to a HEIC/JPG that we will process (or have processed)
             possible_heic = base_name + ".HEIC"
             possible_jpg = base_name + ".JPG"
-            if possible_heic in files_set or possible_jpg in files_set:
-                # This MOV is a pair to an image, let the image handle it
+            possible_jpeg = base_name + ".JPEG"
+            possible_png = base_name + ".PNG"
+            
+            if (possible_heic in files_set or 
+                possible_jpg in files_set or 
+                possible_jpeg in files_set or 
+                possible_png in files_set):
+                # This video is a pair to an image, let the image handle it
                 continue
             # Else: Standalone video, process it
         
